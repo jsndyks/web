@@ -16,9 +16,9 @@ He undertook _the latter_, the exploration, systematically, logging the ‘_squa
 
 <div width="80%" style="padding-left:8%; padding-right:8%"><a href="./img/squadrats.nigelJohn.uberSquadrat.v2.jpg"><img src="./img/squadrats.nigelJohn.uberSquadrat.v2.1200.jpg"/></a></div>
 
-He completed this with [a ride in Staffordshire this August](https://www.strava.com/activities/9666488445), and it puts him at **#575** in that standings at [squadrats.com](https://squadrats.com/standings).
+He completed this with [a ride in Staffordshire this August](https://www.strava.com/activities/9666488445), and it puts him at **#575** in the standings at [squadrats.com](https://squadrats.com/standings).
 
-<div width="80%" style="padding-left:8%; padding-right:8%"><a href="./img/squadrats.nigelJohn.standings.575.v2.jpg"><img width="80%" style="padding-left:8%; padding-right:8%" src="./img/squadrats.nigelJohn.standings.575.v2.1200.jpg"/></a></div>
+<div width="80%" style="padding-left:8%; padding-right:8%"><a href="./img/squadrats.nigelJohn.standings.575.v2.jpg"><img src="./img/squadrats.nigelJohn.standings.575.v2.1200.jpg"/></a></div>
 
 Having followed Nigel’s rides, and shared cycling experiences over the years - we both love the Severn Bridge run - I suspect that Nigel might want to be remembered by the geographic footprint that he made with his bike. It's amazing.
 
