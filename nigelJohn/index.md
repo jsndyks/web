@@ -25,5 +25,5 @@ Having followed Nigel’s rides, and shared cycling experiences over the years -
 I’ll miss him, and watching him develop this.<br/>
 But, what an achievement.
 
-Jason.
-<br/>18/10/2023
+**Jason**.
+<br/>_18/10/2023_
