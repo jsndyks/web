@@ -8,7 +8,13 @@ I was shocked and terribly saddened to hear that we lost **Nigel John** on Satur
 The awful news was communicated by colleagues at the University of Bangor.
 
 I knew Nigel as a committed and competent cyclist and would like to share some of his exploits.
-He regularly rode with the CTC (Cyclists' Touring Club) and actively sought out unexplored parts of the World, usually on his titanium Lynskey bike.
+He regularly rode with the CTC (Cyclists' Touring Club) and actively sought out unexplored parts of the World, usually on his titanium Lynskey bike, which he would regularly prop up and photograph mid-ride.
+
+<div width="90%" style="padding-left:4%; padding-right:4%">
+<a href="./img/nigelJohn.lynskey.01.jpg"><img width="25%"src="./img/nigelJohn.lynskey.01.jpg"/></a>
+<a href="./img/nigelJohn.lynskey.02.jpg"><img width="25%"src="./img/nigelJohn.lynskey.02.jpg"/></a>
+<a href="./img/nigelJohn.lynskey.03.jpg"><img width="25%"src="./img/nigelJohn.lynskey.03.jpg"/></a>
+</div>
 
 Nigel shared much of _the former_, the riding, on [Strava](https://www.strava.com/athletes/2710835/) where had recorded more than 4,000km of rides this year. His [2017 Infographic](https://www.strava.com/athletes/2710835/posts/1057442) showed that he had ridden on 229 days and covered 4,300 miles in 318 hours of cycling. This involved the equivalent of 5 ascents of Mount Everest. His [2022 highlights](https://www.strava.com/athletes/2710835/posts/23031166) showed that he was on his bike for 276 of the days in the year - one of the top 2% most active on Strava. In total, [Nigel’s Strava](https://www.strava.com/athletes/2710835) shows **57,000km** of riding, involving **350km** of climbing (vertical ascent) and more than **2,700** hours in the saddle on his bike since 2013 - about four and a half hours per week on average.
 
