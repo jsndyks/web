@@ -1,5 +1,9 @@
 ### Nigel John - Cyclist
 
+<style>
+    img {margin:2pc; border:1px dashed #e0e0e0}
+</style>
+
 I was shocked and terribly saddened to hear that we lost **Nigel John** on Saturday afternoon.
 The awful news was communicated by colleagues at the University of Bangor.
 
@@ -10,11 +14,11 @@ Nigel shared much of the former on [Strava](https://www.strava.com/athletes/2710
 
 He did the latter, the exploration, systematically, logging the ‘_squadrats_’ - squares of 1 mile by 1 mile - that he visited across the country. Nigel visited **3,348 squadrats**, with an impressive ‘_yard_’ of **1,592** interconnected 1 mile squares. His _Übersquadrat_ - his largest square completely filled with visited squadrats - is **32x32**, covering an area including Ellesmere Port, Knutsford, Crewe, Market Drayton, Oswestry, Wrexham and Chirk.
 
-<a href="./img/squadrats.nigelJohn.uberSquadrat.v2.jpg"><img width="80%" style="padding-left:8%; padding-right:8%" src="./img/squadrats.nigelJohn.uberSquadrat.v2.1200.jpg"/></a>
+<div width="80%" style="padding-left:8%; padding-right:8%"><a href="./img/squadrats.nigelJohn.uberSquadrat.v2.jpg"><img src="./img/squadrats.nigelJohn.uberSquadrat.v2.1200.jpg"/></a></div>
 
 He completed this with a ride in Staffordshire this August, and it puts him at **#575** in that standings at [squadrats.com](https://squadrats.com/standings).
 
-<a href="./img/squadrats.nigelJohn.standings.575.v2.jpg"><img width="80%" style="padding-left:8%; padding-right:8%" src="./img/squadrats.nigelJohn.standings.575.v2.1200.jpg"/></a>
+<div width="80%" style="padding-left:8%; padding-right:8%"><a href="./img/squadrats.nigelJohn.standings.575.v2.jpg"><img width="80%" style="padding-left:8%; padding-right:8%" src="./img/squadrats.nigelJohn.standings.575.v2.1200.jpg"/></a></div>
 
 Having followed Nigel’s rides, and shared cycling experiences over the years - we both love the Severn Bridge run - I suspect that Nigel might want to be remembered by the geographic footprint that he made with his bike. It's amazing.
 
@@ -22,3 +26,4 @@ I’ll miss him, and watching him develop this.
 But, what an achievement.
 
 Jason.
+<br/>18/10/2023
