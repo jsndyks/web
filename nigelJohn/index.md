@@ -1,7 +1,7 @@
 ### Nigel John - Cyclist
 
 <style>
-    img {margin:4px; border:1px dashed #e0e0e0}
+    img {margin:4px; padding:2px; border:1px dashed #e0e0e0}
     p {padding-top:0.5em; padding-bottom:0.5em}
 </style>
 
