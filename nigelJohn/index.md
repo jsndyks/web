@@ -8,7 +8,7 @@
 I was shocked and terribly saddened to hear that we lost **Nigel John** on Saturday afternoon.
 The awful news was communicated by colleagues at the University of Bangor.
 
-I knew Nigel as a committed and competent cyclist and would like to share some of his exploits.
+I knew Nigel as a committed, competent, encouraging and inspiring cyclist and would like to share some of his exploits.
 He regularly rode with the [CTC (Cyclists' Touring Club)](https://www.cyclinguk.org/) and actively sought out unexplored parts of the World, usually on his titanium Lynskey bike, which he would regularly prop up and photograph mid-ride.
 
 <div width="90%" style="padding-left:8%; padding-right:8%; align:center">
