@@ -3,7 +3,7 @@
 <style>
     img {margin:4px; padding:2px; border:1px dashed #e0e0e0}
     p {padding-top:0.5em; padding-bottom:0.5em}
-    h1,a footer,a {display:none}
+    h1 a, footer a {display:none}
 </style>
 
 I was shocked and terribly saddened to hear that we lost **Nigel John** on Saturday afternoon.
