@@ -7,7 +7,7 @@
     footer {visibility:hidden}
 </style>
 
-I was shocked and terribly saddened to hear that we lost **Nigel John** on Saturday afternoon.
+I was shocked and terribly saddened to hear that we lost **Nigel John** on Saturday afternoon.<br/>
 The awful news was communicated by colleagues at the University of Bangor.
 
 I knew Nigel as a committed, competent, encouraging and inspiring cyclist and would like to share some of his exploits.
