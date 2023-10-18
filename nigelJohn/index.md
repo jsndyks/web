@@ -4,8 +4,8 @@
     img {margin:4px; padding:2px; border:1px dashed #e0e0e0}
     p {padding-top:0.5em; padding-bottom:0.5em}
     h1 a {display:none}
-    footer {color:rgba(0,0,0,0)}
-    footer #text {display:none}
+    .footer {color:rgba(0,0,0,0) !important}
+    .footer #text {display:none !important}
 </style>
 
 I was shocked and terribly saddened to hear that we lost **Nigel John** on Saturday afternoon.<br/>
