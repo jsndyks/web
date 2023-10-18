@@ -8,7 +8,7 @@ I was shocked and terribly saddened to hear that we lost **Nigel John** on Satur
 The awful news was communicated by colleagues at the University of Bangor.
 
 I knew Nigel as a committed and competent cyclist and would like to share some of his exploits.
-He regularly rode with the CTC (Cyclists' Touring Club) and actively sought out unexplored parts of the World, usually on his titanium Lynskey bike, which he would regularly prop up and photograph mid-ride.
+He regularly rode with the [CTC (Cyclists' Touring Club)](https://www.cyclinguk.org/) and actively sought out unexplored parts of the World, usually on his titanium Lynskey bike, which he would regularly prop up and photograph mid-ride.
 
 <div width="90%" style="padding-left:4%; padding-right:4%; align:center">
 <a href="./img/nigelJohn.lynskey.02.jpg"><img width="25%" src="./img/nigelJohn.lynskey.02.jpg"/></a>
