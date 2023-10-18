@@ -2,6 +2,7 @@
 
 <style>
     img {margin:4px; border:1px dashed #e0e0e0}
+    p {padding-top:1.5em; padding-bottom:1.5em}
 </style>
 
 I was shocked and terribly saddened to hear that we lost **Nigel John** on Saturday afternoon.
