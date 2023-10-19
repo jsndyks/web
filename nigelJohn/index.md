@@ -11,9 +11,9 @@
 </style>
 
 I was shocked and terribly saddened to hear that we lost **Nigel John** on Saturday afternoon.<br/>
-The awful news was communicated by colleagues at the University of Bangor.
+The awful news was communicated by colleagues at the University of Bangor who knwe Nigel well.
 
-I knew Nigel as a committed, competent, encouraging and inspiring cyclist and would like to share some of his exploits.
+I knew Nigel as a committed, competent, encouraging and inspiring cyclist, and would like to share some of his exploits.<br/>
 He regularly rode with the [CTC (Cyclists' Touring Club)](https://www.cyclinguk.org/) and actively sought out unexplored parts of the World, usually on his titanium Lynskey bike, which he would regularly prop up and photograph mid-ride.
 
 <div width="90%" style="padding-left:8%; padding-right:8%; align:center">
@@ -22,7 +22,7 @@ He regularly rode with the [CTC (Cyclists' Touring Club)](https://www.cyclinguk.
 <a href="./img/nigelJohn.lynskey.03.jpg"><img width="25%" src="./img/nigelJohn.lynskey.03.jpg"/></a>
 </div>
 
-Nigel shared much of _the former_, the riding, on [Strava](https://www.strava.com/athletes/2710835/) where had recorded more than 4,000km of cycling this year. His [2017 Infographic](https://www.strava.com/athletes/2710835/posts/1057442) showed that he had ridden on 229 days that year and covered 4,300 miles in 318 hours on the bike. This involved the equivalent of 5 ascents of Mount Everest. His [2022 highlights](https://www.strava.com/athletes/2710835/posts/23031166) showed that he was on the road on 276 of the days in the year - one of the top 2% most active on Strava. In total, [Nigel’s Strava](https://www.strava.com/athletes/2710835) shows **57,000km** of riding, involving **350km** of climbing (vertical ascent) and more than **2,700** hours in the saddle since 2013. This involves around four and a half hours of riding per week on average over the decade - mostly outdoors, but some on his trainer indoors.
+Nigel shared much of _the former_, the riding, on [Strava](https://www.strava.com/athletes/2710835/) where had recorded more than 4,000km of cycling this year. He posted his [2017 Infographic](https://www.strava.com/athletes/2710835/posts/1057442), which showed that he had ridden on 229 days that year and covered 4,300 miles in 318 hours on the bike. This involved the equivalent of 5 ascents of Mount Everest. A post of his [2022 highlights](https://www.strava.com/athletes/2710835/posts/23031166) showed that he was on the road on 276 of the days in the year - one of the top 2% most active on Strava. In total, [Nigel’s Strava](https://www.strava.com/athletes/2710835) shows **57,000km** of riding, involving **350km** of climbing (vertical ascent) and more than **2,700** hours in the saddle since 2013. This involves around four and a half hours of riding per week on average over the decade - mostly outdoors, but some on his trainer indoors.
 
 <div width="90%" style="padding-left:8%; padding-right:8%; align:center">
 <a href="./img/nigelJohn.infoGraphic2017.2048x2048.jpg"><img height="200" src="./img/nigelJohn.infoGraphic2017.900.jpg"/></a>
@@ -37,7 +37,8 @@ He completed this with [a ride in Staffordshire this August](https://www.strava.
 
 <div width="80%" style="padding-left:8%; padding-right:8%;  align:center"><a href="./img/squadrats.nigelJohn.standings.575.v2.jpg"><img src="./img/squadrats.nigelJohn.standings.575.v2.1200.jpg"/></a></div>
 
-Having followed Nigel’s exploits, and shared cycling experiences over the years - we both love the Severn Bridge run, we always give and share kudos after a ride - I suspect that Nigel might want to be remembered by the geographic footprint that he made with his bike.<br/>It's amazing.
+Having followed Nigel’s exploits, and shared cycling experiences over the years - we both love the Severn Bridge run, we always give and share kudos after a ride - I suspect that Nigel might want to be remembered by the geographic footprint that he made with his bike.
+<br/>It's amazing.
 
 I’ll miss him, and watching him develop this.<br/>
 But, what an achievement.
