@@ -33,7 +33,7 @@ He undertook _the latter_, the exploration, systematically, logging the ‘_squa
 
 <div width="80%" style="padding-left:8%; padding-right:8%;  align:center"><a href="./img/squadrats.nigelJohn.uberSquadrat.v2.jpg"><img src="./img/squadrats.nigelJohn.uberSquadrat.v2.1200.jpg"/></a></div>
 
-He completed this with [a ride in Staffordshire this August](https://www.strava.com/activities/9666488445), and it puts him at **#575** in the standings at [squadrats.com](https://squadrats.com/standings).
+He completed this with [a ride in Staffordshire this August](https://www.strava.com/activities/9666488445) with [his son Marc](https://www.strava.com/activities/9666500522), and it puts him at **#575** in the standings at [squadrats.com](https://squadrats.com/standings).
 
 <div width="80%" style="padding-left:8%; padding-right:8%;  align:center"><a href="./img/squadrats.nigelJohn.standings.575.v2.jpg"><img src="./img/squadrats.nigelJohn.standings.575.v2.1200.jpg"/></a></div>
 
