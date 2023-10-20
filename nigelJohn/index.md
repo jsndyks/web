@@ -11,7 +11,7 @@
 </style>
 
 I was shocked and terribly saddened to hear that we lost **Nigel John** on Saturday afternoon.<br/>
-The awful news was communicated by colleagues at the University of Bangor who knwe Nigel well.
+The awful news was communicated by colleagues at the University of Bangor who knew Nigel well.
 
 I knew Nigel as a committed, competent, encouraging and inspiring cyclist, and would like to share some of his exploits.<br/>
 He regularly rode with the [CTC (Cyclists' Touring Club)](https://www.cyclinguk.org/) and actively sought out unexplored parts of the World, usually on his titanium Lynskey bike, which he would regularly prop up and photograph mid-ride.
