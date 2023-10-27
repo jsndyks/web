@@ -5,9 +5,9 @@
     .manifesto ol li strong {color:#808080; font-weight: lighter;}
     .manifesto ol li em {color:#b02020; position: absolute; left:24em; font-style: normal}
     /* .manifesto ul {color:#606060; position: absolute; left:24em; font-style: normal} */
-    .manifesto ul {color:#606060; margin-left:8em; font-style: normal; list-style-type: none; text-indent: -2em;}
+    .manifesto ul {color:#606060; margin-left:12em; font-style: normal; list-style-type: none; text-indent: -2em;}
     .manifesto ul {padding-top:0px;padding-bottom:0px; margin-top:1px; margin-bottom:1px}
-    .manifesto ul li {padding-top:0.5em;padding-bottom:0.5em;}
+    .manifesto ul li {padding-top:2.5em;padding-bottom:2.5em;}
     .jdSig {text-align:right; margin-right:3em}
     li::before {font-size:50%}
     </style>
