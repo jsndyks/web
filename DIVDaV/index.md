@@ -3,6 +3,9 @@
 <style>
     .manifesto li {color:#202020; margin-left:2em; font-size:90%; font-variant-caps: small-caps}
     .manifesto li strong {color:#f0b0b0; }
+    .manifesto li strong {color:#f0b0b0; }
+      position: absolute;
+
     .jdSig {align:right; margin-right:3em}
     </style>
 
@@ -10,7 +13,7 @@
 
 <div class="manifesto" markdown="1">
 
-1. **Focus:** We study visualization in diverse forms in diverse contexts in diverse ways
+1. **Focus:** _We study visualization in diverse forms in diverse contexts in diverse ways_
 
 - a thing
 - another thing
