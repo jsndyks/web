@@ -23,7 +23,7 @@
 
 4. **Funding:** _We support each other by sharing funding, knowledge and resources_
 
-5. **Activity:** _We share responsibility for initiatives, quality and profile_
+5. **Activity:** _We take collective responsibility for initiatives, quality and profile_
 
 6. **Governance:** _We decide collectively, we communicate frequently and openly_
 
