@@ -3,8 +3,8 @@
 <style>
     .manifesto li {color:#202020; margin-left:2em; font-size:90%; font-variant-caps: small-caps}
     .manifesto li strong {color:#f06060; }
-    .manifesto li em {color:#404040; position: absolute; left:32em; font-style: normal}
-    .jdSig {align:right; margin-right:3em}
+    .manifesto li em {color:#404040; position: absolute; left:16em; font-style: normal}
+    .jdSig {text-align:right; margin-right:3em}
     </style>
 
 <div width="80%" style="padding-left:8%; padding-right:8%;  align:center"><img src="./img/diverseDataVis.png"/></div>
