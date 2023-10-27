@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="../css/pages.css"/>
 
 <style>
-    .manifesto ol li {color:#202020; margin-left:2em; font-size:90%; font-variant-caps: small-caps}
+    .manifesto ol li {color:#2020f0; margin-left:2em; font-size:90%; font-variant-caps: small-caps}
     .manifesto ol li strong {color:#808080; font-weight: lighter;}
     .manifesto ol li em {color:#b02020; position: absolute; left:24em; font-style: normal}
     /* .manifesto ul {color:#606060; position: absolute; left:24em; font-style: normal} */
