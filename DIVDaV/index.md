@@ -1,15 +1,14 @@
 <link rel="stylesheet" type="text/css" href="../css/pages.css"/>
 
 <style>
-    .manifesto ol li {color:#2020f0; margin-left:2em; font-size:45%; font-variant-caps: small-caps}
-    .manifesto ol li strong {color:#808080; font-weight: lighter; position: absolute; left:12em; text-align:right}
-    .manifesto ol li em {color:#b02020; position: absolute; left:24em; font-style: normal; font-size:200%}
+    .manifesto ol li {color:#2020f0; margin-left:2em; font-size:67%; font-variant-caps: small-caps}
+    .manifesto ol li strong {color:#808080; font-weight: lighter; position: absolute; left:12em; text-align:right;font-size:150%}
+    .manifesto ol li em {color:#b02020; position: absolute; left:24em; font-style: normal; font-size:150%}
     /* .manifesto ul {color:#606060; position: absolute; left:24em; font-style: normal} */
     .manifesto ul {color:#606060; margin-left:9em; font-style: normal; list-style-type: none; text-indent: -2em;}
     .manifesto ul {padding-top:0px;padding-bottom:0px; margin-top:1px; margin-bottom:1px}
     .manifesto ul li {padding-top:0.75em;padding-bottom:0.75em;}
     .jdSig {text-align:right; margin-right:3em}
-    li::before {font-size:50%}
     </style>
 
 <div width="80%" style="padding-left:8%; padding-right:8%;  align:center"><img src="./img/diverseDataVis.png"/></div>
