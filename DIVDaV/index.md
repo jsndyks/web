@@ -6,7 +6,7 @@
 
 <div width="80%" style="padding-left:8%; padding-right:8%;  align:center"><img src="./img/diverseDataVis.png"/></div>
 
-<div class="manifesto">
+<div class="manifesto" markdown="1">
 
 1. **Focus:** We study visualization in diverse ways in diverse contexts
 
