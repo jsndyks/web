@@ -3,7 +3,7 @@
 <style>
     .manifesto li {color:#202020; margin-left:2em; font-size:90%; font-variant-caps: small-caps}
     .manifesto li strong {color:#f0b0b0; }
-    .manifesto li emphasis {color:#f0b0b0; position: absolute; left:32em}
+    .manifesto li em {color:#f0b0b0; position: absolute; left:32em; font-style: normal}
     .jdSig {align:right; margin-right:3em}
     </style>
 
