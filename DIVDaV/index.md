@@ -13,8 +13,8 @@
 
 1. **Focus:** _We study visualization in diverse forms in diverse contexts in diverse ways_
 
-- a thing
-- another thing
+   - a thing
+   - another thing
 
 2. **Objective:** We develop a supportive environment to undertake high quality research
 
