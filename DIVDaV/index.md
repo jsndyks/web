@@ -9,7 +9,7 @@
 
 <div class="manifesto" markdown="1">
 
-1. **Focus:** We study visualization in diverse ways in diverse contexts
+1. **Focus:** We study visualization in diverse forms in diverse contexts in diverse ways
 
 2. **Objective:** We develop a supportive environment to undertake high quality research
 
