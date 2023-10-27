@@ -1,7 +1,12 @@
 <link rel="stylesheet" type="text/css" href="../../css/pages.css"/>
 
+<style>
+    .manifesto, li, b {color:red}
+    </style>
+
 <div width="80%" style="padding-left:8%; padding-right:8%;  align:center"><img src="./img/diverseDataVis.png"/></div>
 
+<div class="manifesto">
 1. **Focus:** We study visualization in diverse ways in diverse contexts
 
 2. **Approach:** We are critical, responsible, open, realistic and kind
@@ -19,6 +24,7 @@
 8. **Activity:** We share responsibility for initiatives, quality and profile
 
 9. **Participation:** We do our best to use and develop this manifesto to be productive, do good, be human and have fun in ways that are collectively and individually fulfilling
+</div>
 
 ---
 
