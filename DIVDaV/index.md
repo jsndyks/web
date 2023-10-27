@@ -5,7 +5,7 @@
     .manifesto ol li strong {color:#808080; }
     .manifesto ol li em {color:#b02020; position: absolute; left:24em; font-style: normal}
     /* .manifesto ul {color:#606060; position: absolute; left:24em; font-style: normal} */
-    .manifesto ul {color:#606060; margin-left:24em; font-style: normal}
+    .manifesto ul {color:#606060; margin-left:24em; font-style: normal; list-style-type: none;}
     .jdSig {text-align:right; margin-right:3em}
     </style>
 
