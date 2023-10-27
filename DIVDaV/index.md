@@ -1,8 +1,8 @@
 <link rel="stylesheet" type="text/css" href="../css/pages.css"/>
 
 <style>
-    .manifesto, li {color:#202020; margin-left:2em; font-size:90%}
-    .manifesto, li, strong {color:#602020; font-variant-caps: small-caps}
+    .manifesto  li {color:#202020; margin-left:2em; font-size:90%}
+    .manifesto li  strong {color:#602020; font-variant-caps: small-caps}
     </style>
 
 <div width="80%" style="padding-left:8%; padding-right:8%;  align:center"><img src="./img/diverseDataVis.png"/></div>
