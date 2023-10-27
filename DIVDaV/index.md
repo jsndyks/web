@@ -17,21 +17,21 @@
    - another thing
    - a third thing (this is the least important one)
 
-2. **Objective:** We develop a supportive environment to undertake high quality research
+2. **Objective:** _We develop a supportive environment to undertake high quality research_
 
-3. **Approach:** We are critical, responsible, open, realistic and kind
+3. **Approach:** _We are critical, responsible, open, realistic and kind_
 
-4. **Funding:** We support each other by sharing funding, knowledge and resources
+4. **Funding:** _We support each other by sharing funding, knowledge and resources_
 
-5. **Activity:** We share responsibility for initiatives, quality and profile
+5. **Activity:** _We share responsibility for initiatives, quality and profile_
 
-6. **Governance:** We decide collectively, we communicate frequently and openly
+6. **Governance:** _We decide collectively, we communicate frequently and openly_
 
-7. **Reporting:** We do not report, we are not burdened by a reporting structure
+7. **Reporting:** _We do not report, we are not burdened by a reporting structure_
 
-8. **Lifespan:** We decide who we are, how we operate and when to stop
+8. **Lifespan:** _We decide who we are, how we operate and when to stop_
 
-9. **Participation:** We do our best to use and develop this manifesto to be productive, do good, be human and have fun as we learn and inform in ways that are collectively and individually fulfilling
+9. **Participation:** _We do our best to use and develop this manifesto to be productive, do good, be human and have fun as we learn and inform in ways that are collectively and individually fulfilling_
 
 </div>
 
