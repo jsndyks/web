@@ -1,9 +1,10 @@
 <link rel="stylesheet" type="text/css" href="../css/pages.css"/>
 
 <style>
-    .manifesto li {color:#202020; margin-left:2em; font-size:90%; font-variant-caps: small-caps}
-    .manifesto li strong {color:#f06060; }
-    .manifesto li em {color:#404040; position: absolute; left:24em; font-style: normal}
+    .manifesto ol li {color:#202020; margin-left:2em; font-size:90%; font-variant-caps: small-caps}
+    .manifesto ol li strong {color:#404040; }
+    .manifesto ol li em {color:#b02020; position: absolute; left:24em; font-style: normal}
+    .manifesto ul {color:#606060; position: absolute; left:24em; font-style: normal}
     .jdSig {text-align:right; margin-right:3em}
     </style>
 
@@ -13,9 +14,10 @@
 
 1. **Focus:** _We study visualization in diverse forms in diverse contexts in diverse ways_
 
-   - a thing
-   - another thing
-   - a third thing (this is the least important one)
+   - We are committed to developing understanding of the use, effects and potential of graphics in diverse contexts.
+   - We consider visualization as a means for revelation, reflection and reporting throughout analytical workflows
+   - We bring data to life, embracing, embodying and exhibiting data humanism
+   - We are not constrained by organisational or disciplinary structures, arbitrary labels, geographic boundaries or particular domain foci, and strive to work across these.
 
 2. **Objective:** _We develop a supportive environment to undertake high quality research_
 
@@ -31,7 +33,7 @@
 
 8. **Lifespan:** _We decide who we are, how we operate and when to stop_
 
-9. **Participation:** _We do our best to use and develop this manifesto to be productive, do good, be human and have fun as we learn and inform in ways that are collectively and individually fulfilling_
+9. **Participation:** _We do our best to use and develop this manifesto to be productive, do good, be human and have fun<br/>as we learn and inform in ways that are collectively and individually fulfilling_
 
 </div>
 
