@@ -15,6 +15,7 @@
 
    - a thing
    - another thing
+   - a third thing (this is the leasrt important one)
 
 2. **Objective:** We develop a supportive environment to undertake high quality research
 
