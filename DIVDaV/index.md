@@ -1,4 +1,4 @@
-<style link="../../css/pages.css"></style>
+<link rel="stylesheet" type="text/css" href="../../css/pages.css"/>
 
 <div width="80%" style="padding-left:8%; padding-right:8%;  align:center"><img src="./img/diverseDataVis.png"/></div>
 
