@@ -1,9 +1,9 @@
 <link rel="stylesheet" type="text/css" href="../css/pages.css"/>
 
 <style>
-    .manifesto ol li {color:#2020f0; margin-left:2em; font-size:90%; font-variant-caps: small-caps}
-    .manifesto ol li strong {color:#808080; font-weight: lighter;}
-    .manifesto ol li em {color:#b02020; position: absolute; left:24em; font-style: normal}
+    .manifesto ol li {color:#2020f0; margin-left:2em; font-size:45%; font-variant-caps: small-caps}
+    .manifesto ol li strong {color:#808080; font-weight: lighter; position: absolute; left:12em; text-align:right}
+    .manifesto ol li em {color:#b02020; position: absolute; left:24em; font-style: normal; font-size:200%}
     /* .manifesto ul {color:#606060; position: absolute; left:24em; font-style: normal} */
     .manifesto ul {color:#606060; margin-left:9em; font-style: normal; list-style-type: none; text-indent: -2em;}
     .manifesto ul {padding-top:0px;padding-bottom:0px; margin-top:1px; margin-bottom:1px}
