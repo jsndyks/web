@@ -1,8 +1,8 @@
 <link rel="stylesheet" type="text/css" href="../css/pages.css"/>
 
 <style>
-    .manifesto li {color:#202020; margin-left:2em; font-size:90%}
-    .manifesto li strong {color:#602020; font-variant-caps: small-caps}
+    .manifesto li {color:#202020; margin-left:2em; font-size:90%; font-variant-caps: small-caps}
+    .manifesto li strong {color:#f0b0b0; }
     .jdSig {align:right; margin-right:3em}
     </style>
 
