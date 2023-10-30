@@ -1,0 +1,23 @@
+.manifesto ol {margin-left:1em; margin-top:1em; list-style-position: outside; text-indent:-2em; }
+
+.manifesto ol li {color:#b0b0b0; font-size:80%; font-variant-caps: small-caps; padding-bottom:0px; margin-bottom:0.5em;margin-left:3em}
+
+.manifesto ol li strong {color:#202020; font-weight: 300; padding-left:2em; font-size:125%}
+
+.manifesto ol li em {color:#b02020; position: relative; left:0.5em; font-style: normal; font-size:120%; font-variant-caps:normal; text-transform: uppercase;}
+/* .manifesto ul {color:#606060; position: absolute; left:24em; font-style: normal} */
+/*position: absolute; left:8em */
+
+.manifesto ul {color:#606060; margin-left:-2em; font-style: normal; font-variant-caps:small-caps; list-style-type: none; padding-top:0px;padding-bottom:0px; margin-top:1px; margin-bottom:1.5em}
+
+.manifesto ul li {padding-top:0.25em;padding-bottom:0.25em;margin-top:1px;margin-bottom:1px;color:#202020;font-size:115%; font-weight: 100; }
+
+.manifesto ul li ul li {padding-top:0.05em;padding-bottom:0.05em;margin-top:1px;margin-bottom:1px;color:#909090;font-size:100%; font-weight: 150; list-style-type: "-: ";list-style-position: inside}
+
+.jdSig {text-align:right; margin-right:3em; padding-top:1em; font-variant-caps:small-caps}
+
+.topTitle {padding-left:8%; padding-right:8%;  text-align:center; position: sticky; top:0; background-color:#ffffff}
+
+img {background-color:#ff0000; border:none}
+
+hr {padding-top:1em; clear:both;}
