@@ -67,11 +67,11 @@
    - We decide whether to continue for another year every September;
    - We update our living manifesto regularly and collectively.
 
-9. **Participation:** _We are welcoming and use and develop this manifesto to ...<br/>be productive, do good, be human and have fun,<br/>as we learn and inform in ways that are collectively and individually fulfilling for all involved_
+9. **Participation:** _We are welcoming and use and develop this manifesto to ...<br/>be productive, do good, be human and have fun,<br/>as we learn and inform in ways that are collectively and individually fulfilling<br/>for all involved_
 
    - We have no membership criteria;
    - We have no exclusion criteria;
-   - Project people simply pledge allegiance 🙂 to this living manifesto and contribute by shaping the project, its culutre, activity and manfesto;
+   - Project people simply pledge allegiance 🙂 to this living manifesto and contribute by shaping the project, its culture, activity and manifesto;
    - Project people are encouraged to join and participate in more than one research constellation;
    - We are open and welcoming.
 
@@ -81,6 +81,7 @@
 
 <div class="jdSig" markdown="1">
 
-Jason **DYKES**<br/>_27/10/23_<br/>🐁
+Jason **DYKES**<br/>_30/10/23_
+<!---<br/>🐁--->
 
 </div>
