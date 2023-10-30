@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="../css/manifesto.css"/>
 
 <style>
-    ul {display:none;}
+    ul {display:block;}
     </style>
 
 <div class="topTitle" width="80%">
