@@ -1,6 +1,10 @@
 <link rel="stylesheet" type="text/css" href="../css/pages.css"/>
 <link rel="stylesheet" type="text/css" href="../css/manifesto.css"/>
 
+<!---
+https://codepen.io/josetxu/pen/NWyZWoJ
+--->
+
 <style>
     ul {display:block;}
     </style>
