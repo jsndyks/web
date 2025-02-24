@@ -46,19 +46,19 @@ h2 {
     margin-top:3rem;
     font-family: 'Lexend', 'Inter', 'Roboto', 'Arial', sans-serif;
     padding-top:1rem;
-    font-weight: 125;
+    font-weight: 400;
     border-top:dashed 1px #e0e0e0;
 }
 h3 {
     font-size: 1.15rem;
     margin-top:2rem;
     font-family: 'Lexend', 'Inter', 'Roboto', 'Arial', sans-serif;
-    font-weight: 100;
+    font-weight: 300;
 }
 .animated-character {
     display: inline-block;
     animation: fade-in-out 10s infinite;
-    font-weight: 200;
+    /* font-weight: 200; */
 }
 .title {
     font-size: 1.25rem;
