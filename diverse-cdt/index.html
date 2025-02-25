@@ -48,8 +48,13 @@
         }
 
         /* Anchor */
+        a:link a:any-link {
+            text-decoration: none !important; /* Removes the underline */
+            background-color: #ffff0000; /* Adds a yellow background */
+            color: inherit; /* Keeps the text color the same as the surrounding text */
+        }
         a {
-            text-decoration: none; /* Removes the underline */
+            text-decoration: none !important; /* Removes the underline */
             background-color: #ffff0000; /* Adds a yellow background */
             color: inherit; /* Keeps the text color the same as the surrounding text */
         }
@@ -70,7 +75,13 @@
         .email {
             color: #20a0e8;
         }
-        .cdtPeople {
+        a[href*="mailto:"] {
+    color: #20a0e8 !important;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cdtPeople {
             width:60% 
         }
 
