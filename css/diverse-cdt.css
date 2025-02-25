@@ -30,20 +30,6 @@ body {
     align-items: center;
     text-align: center;
 }
-h1 span {
-    /* font-weight: 100; */
-}
-.mainText,h1 {
-    font-weight: 100;
-    transform: translateY(-2rem);
-}
-h1 .lo {
-    font-size:30%;
-    font-weight: 100;
-    text-transform: uppercase;
-    color:#00000090;
-    margin-bottom: 0.3rem;
-}
 h1 {
     font-family: 'Lexend', 'Inter', 'Roboto', 'Arial', sans-serif;
     font-size: 5rem;
@@ -64,6 +50,20 @@ h3 {
     font-family: 'Lexend', 'Inter', 'Roboto', 'Arial', sans-serif;
     font-weight: 300;
     color:#606060;
+}
+h1 span {
+    /* font-weight: 100; */
+}
+.mainText,h1 {
+    font-weight: 100;
+    transform: translateY(-2rem);
+}
+h1 .lo {
+    font-size:30%;
+    font-weight: 100;
+    text-transform: uppercase;
+    color:#00000090;
+    margin-bottom: 0.3rem;
 }
 .animated-character {
     display: inline-block;
