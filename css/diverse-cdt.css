@@ -36,6 +36,8 @@ h1 span {
 h1 .lo {
     font-size:30%;
     font-weight: 100;
+    text-transform: uppercase;
+    color:#00000090;
 }
 h1 {
     font-family: 'Lexend', 'Inter', 'Roboto', 'Arial', sans-serif;
