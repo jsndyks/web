@@ -73,10 +73,10 @@ h3 {
 }
 
 /* Anchor */
-a a:link a:any-link {
+a {
     text-decoration: none; /* Removes the underline */
-    background-color: #ffff0080; /* Adds a yellow background */
-    color: #20a0e8; /* Keeps the text color the same as the surrounding text */
+    background-color: #ffff0000; /* Adds a yellow background */
+    color: inherit; /* Keeps the text color the same as the surrounding text */
 }
 
 a:visited {
