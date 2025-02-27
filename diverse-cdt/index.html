@@ -49,13 +49,13 @@
 
         /* Anchor */
         a:link a:any-link {
-            text-decoration: none !important; /* Removes the underline */
+            text-decoration: none; /* Removes the underline */
             background-color: #ffff0000; /* Adds a yellow background */
             color: inherit; /* Keeps the text color the same as the surrounding text */
             border-bottom: 1px dashed #00000040;
         }
         a { /* Overrides Above */
-            text-decoration: none !important; /* Removes the underline */
+            text-decoration: none; /* Removes the underline */
             background-color: #ffff0000; /* Adds a yellow background */
             color: inherit; /* Keeps the text color the same as the surrounding text */
             border-bottom: 1px dashed #00000040;
@@ -68,7 +68,7 @@
 
         a:hover {
             background-color: #ffff00ff;
-            text-decoration: none; /* Ensures underline appears on hover */
+            text-decoration: none !important; /* Ensures underline appears on hover */
         }
 
         .hiLink {
