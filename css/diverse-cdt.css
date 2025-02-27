@@ -58,8 +58,8 @@ h1 span {
     font-weight: 100;
     transform: translateY(-2rem);
 }
-h1 .lo {
-    font-size:3rem;
+h1.lo {
+    font-size:2rem;
     font-weight: 100;
     text-transform: uppercase;
     color:#00000090;
