@@ -34,7 +34,7 @@ h1 {
     font-family: 'Lexend', 'Inter', 'Roboto', 'Arial', sans-serif;
     font-size: 5rem;
     font-weight: 100;
-    margin-bottom: 8px;
+    margin-bottom: 0.25rem;
 }
 h2 {
     font-size: 1.25rem;
@@ -56,7 +56,7 @@ h1 span {
 }
 .mainText h1 {
     font-weight: 100;
-    transform: translateY(-2rem);
+    /* transform: translateY(-2rem); */
 }
 h1.lo {
     font-size:2rem;
@@ -64,7 +64,7 @@ h1.lo {
     text-transform: uppercase;
     color:#00000090;
     margin-bottom: 0.25rem;
-    margin-top:0.25rem;
+    margin-top:0.35rem;
 }
 .animated-character {
     display: inline-block;
