@@ -59,11 +59,12 @@ h1 span {
     transform: translateY(-2rem);
 }
 h1 .lo {
-    font-size:30%;
+    font-size:3rem;
     font-weight: 100;
     text-transform: uppercase;
     color:#00000090;
     margin-bottom: 0.3rem;
+    margin-top:0px;
 }
 .animated-character {
     display: inline-block;
