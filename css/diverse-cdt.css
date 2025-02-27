@@ -63,8 +63,8 @@ h1.lo {
     font-weight: 100;
     text-transform: uppercase;
     color:#00000090;
-    margin-bottom: 0.3rem;
-    margin-top:0px;
+    margin-bottom: 0.25rem;
+    margin-top:0.25rem;
 }
 .animated-character {
     display: inline-block;
