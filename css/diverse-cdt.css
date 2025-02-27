@@ -83,12 +83,12 @@ h1.lo {
 /* Anchor */
 a:link a:any-link {
     text-decoration: none !important; /* Removes the underline */
-    background-color: #ffff0000; /* Adds a yellow background */
+    background-color: #ffff0040; /* Adds a yellow background */
     color: inherit; /* Keeps the text color the same as the surrounding text */
 }
 a {
     text-decoration: none !important; /* Removes the underline */
-    background-color: #ffff0000; /* Adds a yellow background */
+    background-color: #ffff0040; /* Adds a yellow background */
     color: inherit; /* Keeps the text color the same as the surrounding text */
 }
 
