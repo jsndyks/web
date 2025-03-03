@@ -18,6 +18,7 @@ body {
 }
 .container {
     /* transform: translateY(-0%); */
+    margin-top:10vh;
     font-size: 1;
 }
 .mainText {
