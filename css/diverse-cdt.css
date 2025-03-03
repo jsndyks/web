@@ -18,7 +18,7 @@ body {
 }
 .container {
     /* transform: translateY(-0%); */
-    margin-top:10vh;
+    margin-top:5vh;
     font-size: 1;
 }
 .mainText {
@@ -140,7 +140,7 @@ li {
     h1 {
         font-size: 2.5rem; /* Slightly smaller for tablets */
     }
-    margin-top:5vh;
+    margin-top:3vh;
 }
 @media (max-width: 480px) {
     h1 {
