@@ -136,8 +136,8 @@ li {
 @media (max-width: 768px) {
     h1 {
         font-size: 2.5rem; /* Slightly smaller for tablets */
+        margin-top:3vh;
     }
-    margin-top:3vh;
 }
 @media (max-width: 480px) {
     h1 {
