@@ -1,12 +1,12 @@
 # A Position - An Evolving Position
 
-_I'm working with some friends on an interesting paper in which we think about the value of reflective practice in our work:_
+I'm working with some friends on an interesting paper in which we think about the value of reflective practice in our learning, teaching and research:
 
-> The Value(s) of Visualization: Reflections on Reflective Practice in Visualization Research, Teaching, and Learning
+ * **The Value(s) of Visualization:<br/>Reflections on Reflective Practice in Visualization Research, Teaching, and Learning**
 
 One of the things we have decided to do here is to:
 
-> individually discuss our positionality and report personal reflections and reactions from our work together to highlight the diversity of our experiences.
+> _individually discuss our positionality and report personal reflections and reactions from our work together to highlight the diversity of our experiences._
 
 Now, I haven't read enough about positionality statements, I need to do more here.
 But I do see both their value in acknowledging experiences and values that influence research and its focus, approaches and outcomes _Singh et al (2025)_ 
@@ -27,7 +27,7 @@ I have deliberately avoided listing people: another thorny issue - who to credit
 But I am indebted to many generous and intelligent colleagues who have inspired, empowered, aided, encouraged and on occasion stopped me ... for getting me to where I am.<br/>
 And of course I take all the blame.
 
---
+---
 
 ### POSITIONALITY &amp; INDIVIDUAL EXPERIENCES
 
@@ -44,14 +44,15 @@ At _Leicester_ I spent a year learning how to use computers to do geography on a
 
 During this time a diaspora of “_quantitative geographers_” left geography as the validity of approaches that involved numbers was rejected by many under the accusation of determinism: false, naive, in my view and experience as the enumerators were much often reassuringly thoughtful in their work and responsible in their claims. I had always felt that dismissing any use of numbers to inform because they were biased and imperfect was as unwise as rejecting any general model because it was too abstract to explain detail or any specific model or description because it was too narrow to offer useful scope. Surely diverse perspectives on the world, with detailed thinking about their value, provenance, strengths and limitations, help us understand it, particularly if we have ways to relate them?
 
-Anyhow, along with many other computing geographers, I ended up in Computer Science: at _The City University_ -> _City University_ -> _City University, London_ -> _City, University of London_ -> _City St George’s, University of London_  ... an institution that while nominally capricious has a steady profile involving high proportions of students: from areas with high levels of deprivation; from a Black, Asian and minority ethnic background; and, who are ‘first in family’ to go on to higher education. City is recognized nationally for social mobility.
-I have taught at all levels (foundation to PhD), for various Departments (CS, Engineering, Educational Development, Sociology & Criminology) in classes ranging in size from less than 4 to more than 400. I have helped establish and develop a group that has been innovative in data visualization education and research. Much of this innovation has involved leveraging the geographic and cartographic perspective to do interesting new data-driven Computer Science. It has involved working in many application areas with a diverse collection of colleagues: the [dplb CS Bibliography](https://dblp.org/pid/34/5069.html) lists 82 research papers with 194 different co-authors.
+Anyhow, along with many other computing geographers, I ended up in Computer Science: at _The City University_ -> _City University_ -> _City University, London_ -> _City, University of London_ -> _City St George’s, University of London_  ... an institution that while nominally capricious has a steady profile involving high proportions of students: from areas with high levels of deprivation; from a Black, Asian and minority ethnic background; and, who are ‘first in family’ to go on to higher education. City is recognized nationally for social mobility.<br/>
+I have taught at all levels (foundation to PhD), for various Departments (CS, Engineering, Educational Development, Sociology & Criminology) in classes ranging in size from less than 4 to more than 400.<br/>
+I have helped establish and develop a group that has been innovative in data visualization education and research. Much of this innovation has involved leveraging the geographic and cartographic perspective to do interesting new data-driven Computer Science. It has involved working in many application areas with a diverse collection of colleagues: the [dplb CS Bibliography](https://dblp.org/pid/34/5069.html) lists 82 research papers with 194 different co-authors.
 Our most recent success involves playing a major role in a new PhD training program that is of national significance - the EPSRC Centre for [Doctoral Training in Diversity in Data Visualization (DIVERSE-CDT)](https://diverse-cdt.ac.uk).
 
 I am able bodied but aging and having a bit of an adventure with cancer in my late 50s.<br/>
-I have four kids with my partner of 30 years: two are at University, two at secondary school<br/>.
+I have four kids with my partner of 30 years: two are at University, two at secondary school.<br/>
 Their complex identities: male, female, dizygotic twin, bi, straight, trans, cis, undecided, and neurodivergent, have taught me plenty. <br/>
-I have caring commitments up (aging & dementia) as well as down.
+I have caring commitments up (aging &amp; dementia) as well as down.
 
 I have no evidence that I am not neurotypical.<br/>
 English, the language of science, is my first language.<br/>
@@ -70,3 +71,8 @@ _Interacting with Computers_.
 
 Singh, A., Dechant, M., Patel, D., Soubutts, E., Barbareschi, G., Ayobi, A., & Newhouse, N. (2025).
 [Exploring Positionality in HCI: Perspectives, Trends, and Challenges](https://academic.oup.com/iwc/advance-article-pdf/doi/10.1093/iwc/iwaf007/62340873/iwaf007.pdf)
+
+---
+
+Jason **DYKES**<br/>
+29/03/2025
