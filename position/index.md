@@ -74,6 +74,8 @@ I recognize the privileges and social advantages from which I have benefitted an
 
 These details are an attempt to position me as a researcher and capture aspects of identity that may be relevant to my teaching and research: the topics selected, approaches taken, methods employed, claims made and ways in which all of this is emphasized and communicated.  
 
+I am sure there are many others: known &amp; hidden.
+
 
 #### References
 
