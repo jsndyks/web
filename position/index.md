@@ -1,4 +1,4 @@
-### A Position - An Evolving Position
+### A Position - Evolving
 
 <style>
     img {margin:4px; padding:2px; border:1px dashed #e0e0e0}
@@ -10,8 +10,7 @@
     .footer a {display:none !important; font-size:0px}
 </style>
 
-
-I'm working with some friends on an interesting paper in which we think about the value of reflective practice in our learning, teaching and research:
+I'm working with some friends on a paper in which we think about the value of _reflective practice_ in our learning, teaching and research:
 
  * **The Value(s) of Visualization:<br/>Reflections on Reflective Practice in Visualization Research, Teaching, and Learning**
 
