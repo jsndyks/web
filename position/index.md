@@ -1,4 +1,15 @@
-# A Position - An Evolving Position
+### A Position - An Evolving Position
+
+<style>
+    img {margin:4px; padding:2px; border:1px dashed #e0e0e0}
+    p {padding-top:0.5em; padding-bottom:0.5em}
+    h1 a {display:none}
+    .footer {color:rgba(0,0,0,0) !important; font-size:0px}
+    .footer a {color:rgba(0,0,0,0) !important; font-size:0px}
+    .footer #text {display:none !important; font-size:0px}
+    .footer a {display:none !important; font-size:0px}
+</style>
+
 
 I'm working with some friends on an interesting paper in which we think about the value of reflective practice in our learning, teaching and research:
 
@@ -20,7 +31,9 @@ Well, the more I thought about it, the more I realised that some of the experien
 They are the result of my long term development, my trajectory of life.
 And I don't mind sharing them.
 
-So I have jotted down a few of the positions, influences and decided that I could make reference to an external grounding position statement to anchor more specific reflexive statements in the papers that I write.  
+So I have jotted down a few of the experiences and characteristics that feel, on reflection, as though they influence my work, my approach, that capture my motivations and biases: _this is me_. 
+
+I decided that I could make reference to an external grounding position statement to anchor more specific reflexive statements in any specific papers that I write. And I can update this document as my position changes.<br/>
 I have no idea whether this is a good idea or not, but I thought it worth a try.
 
 I have deliberately avoided listing people: another thorny issue - who to credit and who to castigate?<br/>
@@ -31,7 +44,7 @@ And of course I take all the blame.
 
 ### POSITIONALITY &amp; INDIVIDUAL EXPERIENCES
 
-I’m a cisgender straight white man from a middle-class family in a quiet culturally and ethnically homogenous corner of South-West England. I had a comprehensive education (state school, mixed ability classes) in the 1980s where we were encouraged to create and be expressive rather than comply. I was parented by two science teachers, who were both active in the arts: through amateur musicals, choirs and by coordinating the local Arts Festival, and the BBC. Family holidays were outdoors with maps and picnics and lots of scrambling and exploring. Weekends were spent in the veg garden and on bicycles. I did quite a lot of computer programming at night in my teens.
+I’m a cisgender straight white man from a stable middle-class family in a quiet culturally and ethnically homogenous corner of South-West England. I had a comprehensive education (state school, mixed ability classes) in the 1980s where we were encouraged to create and be expressive rather than comply. I was parented by two science teachers, who were both active in the arts: through amateur musicals, choirs and by coordinating the local Arts Festival, and the BBC. Family holidays were outdoors with maps and picnics and lots of scrambling and exploring. Weekends were spent in the veg garden and on bicycles. I did quite a lot of computer programming at night in my teens.
 
 I acknowledge and am grateful for the many privileges that have given me the knowledge, skills and resources to make & explore, travel & communicate, and the stability upon much of which this is based.
 
