@@ -8,6 +8,8 @@
     .footer a {color:rgba(0,0,0,0) !important; font-size:0px}
     .footer #text {display:none !important; font-size:0px}
     .footer a {display:none !important; font-size:0px}
+
+    body{font-size:85%}
 </style>
 
 I'm working with some friends on a paper in which we think about the value of _reflective practice_ in our learning, teaching and research:
