@@ -70,7 +70,7 @@ and, who, just like my parents, are ‘first in family’ to go on to higher edu
 City is recognized nationally for social mobility.<br/>
 I have taught at all levels (_foundation_ to _PhD_), for various Departments (_CS_, _Engineering_, _Educational Development_, _Information Science_, _Sociology &amp; Criminology_) in classes ranging in size from less than 4 to more than 400 (_Can you hear me at the back?_).<br/>
 I have helped establish and develop a group that has been innovative in data visualization education and research. Much of this innovation has involved leveraging the geographic and cartographic perspective to do interesting new data-driven Computer Science. It has involved working in many application areas with a diverse collection of colleagues: the [dplb CS Bibliography](https://dblp.org/pid/34/5069.html) lists 82 research papers with 194 different co-authors.
-Our most recent success involves playing a major role in a new PhD training program that is of national significance - the EPSRC Centre for [Doctoral Training in Diversity in Data Visualization (DIVERSE-CDT)](https://diverse-cdt.ac.uk).
+We are playing a major role in shaping and delivering a new PhD training program that is of national significance - the EPSRC Centre for [Doctoral Training in Diversity in Data Visualization (DIVERSE-CDT)](https://diverse-cdt.ac.uk).
 
 I am able bodied but aging and having a bit of an adventure with cancer in my late 50s.<br/>
 I have four kids with my partner of 30 years: two are at University, two at secondary school.<br/>
