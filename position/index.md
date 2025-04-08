@@ -38,7 +38,7 @@ And I don't mind sharing them.
 
 So I have jotted down a few of the experiences and characteristics that feel, on reflection, as though they influence my efforts, my approach and that capture my motivations and biases: _this is me_.
 
-They affect this ``Value(s)'' work, but also much of the other work I have done and will do.
+They affect this '_Value(s)_' work, but also much of the other work I have done and will do.
 I decided that I could make reference to a single external grounding position statement to anchor more specific reflexive pieces in any particular papers that I write. And I can update this document as my position changes.<br/>
 I have no clear notion as to whether this is a good idea or not, but I thought it worth a try. And, I have found selecting and exposing these influential experiences pretty useful - thought provoking, for me at any rate.
 
