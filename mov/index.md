@@ -16,6 +16,7 @@
 <embed src="logo.diverseCDT.093158.mov" width="450" height="300" autoplay="true" controller="false">
 --->
 
+v2
   <video width="450" controls>
     <source src="logo.diverseCDT.095704.mov" type="video/mp4">
     Your browser does not support the video tag.
