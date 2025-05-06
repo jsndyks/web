@@ -16,7 +16,24 @@
 <embed src="logo.diverseCDT.093158.mov" width="450" height="300" autoplay="true" controller="false">
 --->
 
-v2
+### Version 2
+
+_Adding some dynamism to position ..._
+
+  <video width="450" controls>
+    <source src="diverseCDT.movingLogo.01.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <video width="450" controls>
+    <source src="diverseCDT.movingLogo.03.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+### Version 1
+
+_Adding some dynamism to presence and encoding ..._
+
   <video width="450" controls>
     <source src="logo.diverseCDT.095704.mov" type="video/mp4">
     Your browser does not support the video tag.
@@ -30,3 +47,4 @@ v2
     
 **Jason**.
 <br/>_01/05/2025_
+<br/>_06/05/2025_
