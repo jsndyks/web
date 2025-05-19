@@ -33,9 +33,9 @@ We came up with a 10x8 coordinate space, which is easy to make square with a mar
 
 Two rows and 10 columns are taken up with our 10 letters, each letter is thus 2 cells high and 1 cell wide, so we need a tall font (approx 2:1 in h:w ratio).
 
- - [M PLUS 1 Code](https://fonts.google.com/specimen/M+PLUS+1+Code) seems to work pretty well, other fonts are available
+ - [M PLUS 1 Code](https://fonts.google.com/specimen/M+PLUS+1+Code) seems to work pretty well, [other fonts are available](https://fonts.google.com/)
 
-Here we see it with a circle and a square showing the positions into which we can plot data.
+Here we see it with a circle and a square showing the (60) positions onto which we can plot data.
 
 <img src="./img/diverseCDT.logo.BASIC.png" width="300"/>
 
@@ -158,7 +158,14 @@ Lots of options - here just with squares and standard gradients, but there are m
 <img src="./img/diverseCDT.logo.GRADIENT.7.png" width="300"/>
 <img src="./img/diverseCDT.logo.GRADIENT.8.png" width="300"/>
 
-And of course we can combine variations ranodmly or in light of data.
+Here with random colours from a more limited palette to get closer to Greg's examples.
+
+<img src="./img/diverseCDT.logo.COLOR.1.png" width="300"/>
+<img src="./img/diverseCDT.logo.COLOR.2.png" width="300"/>
+<img src="./img/diverseCDT.logo.COLOR.3.png" width="300"/>
+
+
+And of course we can combine variations randomly or in light of data.
 
 <img src="./img/diverseCDT.logo.GRADIENT.9.png" width="300"/>
 
