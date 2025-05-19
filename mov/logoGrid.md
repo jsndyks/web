@@ -110,7 +110,7 @@ Shapes that interact to make composite shapes are interesting.
 
  #### LENGTH
 
- We can make bars of different length if we want to - through presence or absence of a symbol.
+ We can make bars of different length if we want to - through data driven presence or absence of a symbol in each cell.
 
 <img src="./img/diverseCDT.logo.BARS.png" width="300"/>
 
