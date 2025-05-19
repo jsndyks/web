@@ -204,6 +204,13 @@ And we can go crazy with busy shape interactions if we don't like sleep ...
 <img src="./img/diverseCDT.logo.REDIV.png" width="300"/>
 <img src="./img/diverseCDT.logo.REDLOWER.png" width="300"/>
 
+#### Square
+
+Here's how it looks as a square with equal spacing top and bottom and with a bigger gap at the bottom to include the strapline.
+
+<img src="./img/diverseCDT.logo.SQUARE1000.png" width="300"/>
+<img src="./img/diverseCDT.logo.SQUARESTRAP.png" width="300"/>
+
 ---
 
 ### The Idea
@@ -222,6 +229,14 @@ We might for example go with ...
  With _Creative Triangle_ to advise on 3 and 4 and come up with some cool examples that use and stretch and take advantage of these rules while giving us expressive and innovative visual identities that reflect our values.
 
  Thoughts?
+
+ ### HYPHEN Post-Script
+
+ The thing I like least about this is ... "**SECDT**".
+
+ Sounds like a _sect_ to me, which is not what we want to seem like. And I keep seeing it even if I change the colour of CDT.
+
+If we add the hyphen of my dreams we lose it but we end up with 11 columns and less squareness! 
 
 ---
 
