@@ -229,7 +229,7 @@ We might for example go with ...
 
  With _Creative Triangle_ to advise on 3 and 4 and come up with some cool examples that use and stretch and take advantage of these rules while giving us expressive and innovative visual identities that reflect our values and meet our accessibility responsibilities.
 
- Thoughts?
+ **Thoughts**?
 
  ### HYPHEN Post-Script
 
