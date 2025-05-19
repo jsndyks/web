@@ -55,6 +55,8 @@ Could be numbers (raw data), text (messages), emojii ...any size, colour, font y
 
 <img src="./img/diverseCDT.logo.CHANGE.png" width="300"/>
 
+<img src="./img/diverseCDT.logo.DATAVISPHD.png" width="300"/>
+
  - [Major Mono Display](https://fonts.google.com/specimen/Major+Mono+Display) is an interesting choice here - we should have rules over which fonts we use (rights, sizing, [etc.](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type))
 
 #### SIZE
