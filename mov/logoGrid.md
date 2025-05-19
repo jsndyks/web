@@ -237,6 +237,8 @@ We might for example go with ...
 
  Sounds like a _sect_ to me, which is not what we want to seem like. And I keep seeing it even if I change the colour of CDT.
 
+Then I worry that a **DIVER SECDT** sounds a little too much like the kind of _Germanic Scuba Cult_ I'd probably try to steer clear of. 
+
 If we add the hyphen of my dreams we lose it but we end up with 11 columns and less squareness! 
 
 ---
