@@ -124,7 +124,7 @@ Shapes that interact to make composite shapes are interesting.
 
 <img src="./img/diverseCDT.logo.BARBRICK.png" width="300"/>
 
-Lines of different orientation have nice effects.
+Lines of different orientation have nice interaction effects.
 
 <img src="./img/diverseCDT.logo.LINE.1.png" width="300"/>
 <img src="./img/diverseCDT.logo.LINE.2.png" width="300"/>
@@ -142,7 +142,7 @@ or random to undermine it ...
 
 <img src="./img/diverseCDT.logo.TRIANGLE.2.png" width="300"/>
 
-Or ... 
+Or resized with spacing ... 
 
 <img src="./img/diverseCDT.logo.TRIANGLE.3.png" width="300"/>
 
