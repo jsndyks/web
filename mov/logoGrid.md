@@ -55,19 +55,9 @@ Could be numbers (raw data), text (messages), emojii ...any size, colour, font y
 
  - [Major Mono Display](https://fonts.google.com/specimen/Major+Mono+Display) is an interesting choice here - we should have rules over which fonts we use (rights, sizing, [etc.](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type))
 
- #### LENGTH
-
- We can make bars of different length if we want to - through presence or absence of a symbol.
-
-<img src="./img/diverseCDT.logo.BARS.png" width="300"/>
-
-<img src="./img/diverseCDT.logo.BARGAP.png" width="300"/>
-
-<img src="./img/diverseCDT.logo.BARSIDE.png" width="300"/>
-
 #### SIZE
 
-And we can vary and encode with size.
+We can vary and encode with size, shape, colour, etc.
 
 <img src="./img/diverseCDT.logo.RECT.png" width="300"/>
 
@@ -114,9 +104,21 @@ Of course that's true of the examples above too ... gently, blatantly, reassurin
     Your browser does not support the video tag.
   </video>
 
-#### INTERACTION
+#### INTERACTION &amp; COMPOSITES
 
 Shapes that interact to make composite shapes are interesting.
+
+ #### LENGTH
+
+ We can make bars of different length if we want to - through presence or absence of a symbol.
+
+<img src="./img/diverseCDT.logo.BARS.png" width="300"/>
+
+<img src="./img/diverseCDT.logo.BARGAP.png" width="300"/>
+
+<img src="./img/diverseCDT.logo.BARSIDE.png" width="300"/>
+
+Lines of different orientation have nice effects.
 
 <img src="./img/diverseCDT.logo.LINE.1.png" width="300"/>
 <img src="./img/diverseCDT.logo.LINE.2.png" width="300"/>
