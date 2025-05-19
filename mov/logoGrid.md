@@ -218,6 +218,17 @@ I am sure we won't be allowed to do this, but I wish we could - add official log
 
 Actually, have decided that's pretty ugly and need to work on letter spacing there. Delete. Some experiments fail.
 
+#### Text Size
+
+I'd want to play with text size and fonts a bit - legibility, white space, balance.
+
+<img src="./img/diverseCDT.logo.TEXT150.png" width="300"/>
+<img src="./img/diverseCDT.logo.TEXT120.png" width="300"/>
+<img src="./img/diverseCDT.logo.TEXT100.png" width="300"/>
+<img src="./img/diverseCDT.logo.TEXT100CRAZY.png" width="300"/>
+
+Need to check it at different sizes of reproduction.
+
 ### The Idea
 
 OK - so _The Idea_ is that we have a space or canvas that we can fill in many ways to overcome the identity / expressiveness / ownership  / flexibility conundrum.
