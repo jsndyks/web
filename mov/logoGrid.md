@@ -233,6 +233,8 @@ I'd want to play with text size and fonts a bit - legibility, white space, balan
 
 Need to check it at different sizes of reproduction.
 
+A job for the designers maybe!
+
 ### The Idea
 
 OK - so _The Idea_ is that we have a space or canvas that we can fill in many ways to overcome the identity / expressiveness / ownership  / flexibility conundrum.
