@@ -243,11 +243,11 @@ We could decide how many rules to apply, but could get _Creative Triangle_ to ex
 
 We might for example go with ...
 
- 1. a 10x8 grid
- 2. DIVERSECDT in rows 5 and 6 of 8 with one letter in each column
- 3. a specified tall font
- 4. perhaps specified letter colouring (perhaps with options) 
- 5. don't f*ck with the letters (feedback!)
+ 1. a **10x8** grid
+ 2. **DIVERSECDT** in rows 5 and 6 of 8 with one letter in each column
+ 3. a specified **tall font** of specified size, weight and spacing
+ 4. perhaps specified letter **colouring** (perhaps with options) 
+ 5. don't f*ck with the letters (feedback!) - needs to be **readable**
 
  With _Creative Triangle_ to advise on 3 and 4 and come up with some cool examples that use and stretch and take advantage of these rules while giving us expressive and innovative visual identities that reflect our values and meet our accessibility responsibilities.
 
