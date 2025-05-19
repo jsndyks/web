@@ -185,6 +185,21 @@ And of course we can combine variations randomly or in light of data.
     Your browser does not support the video tag.
   </video>
 
+#### BUSY, CRAZY INTERACTIONS
+
+And we can go crazy with busy shape interactions if we don't like sleep ...
+
+<img src="./img/diverseCDT.logo.BUSY.1.png" width="300"/>
+<img src="./img/diverseCDT.logo.BUSY.2.png" width="300"/>
+<img src="./img/diverseCDT.logo.BUSY.3.png" width="300"/>
+<img src="./img/diverseCDT.logo.BUSY.4.png" width="300"/>
+<img src="./img/diverseCDT.logo.BUSY.5.png" width="300"/>
+<img src="./img/diverseCDT.logo.BUSY.6.png" width="300"/>
+<img src="./img/diverseCDT.logo.BUSY.7.png" width="300"/>
+<img src="./img/diverseCDT.logo.BUSY.8.png" width="300"/>
+<img src="./img/diverseCDT.logo.BUSY.9.png" width="300"/>
+<img src="./img/diverseCDT.logo.BUSY.10.png" width="300"/>
+
 ### The Idea
 
 OK - so _The Idea_ is that we have a space or canvas that we can fill in many ways to overcome the identity / expressiveness / ownership  / flexibility conundrum.
