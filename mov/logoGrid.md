@@ -209,7 +209,14 @@ Here's how it looks as a square, firstly with equal spacing top and bottom and t
 <img src="./img/diverseCDT.logo.SQUARE1000.png" width="300"/>
 <img src="./img/diverseCDT.logo.SQUARESTRAP.png" width="300"/>
 
----
+#### Institution
+
+I am sure we won't be allowed to do this, but I wish we could - add official logos bottom right!
+
+<img src="./img/diverseCDT.logo.UNIW.png" width="300"/>
+<img src="./img/diverseCDT.logo.UNIC.png" width="300"/>
+
+
 
 ### The Idea
 
