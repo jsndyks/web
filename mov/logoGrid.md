@@ -19,7 +19,7 @@ He said something like ...
 
 and added something along the lines of ...
 
-> This would enable us to be expressive be great for exploring visualization and teaching students
+> This would enable us to be consistent and yet expressive and would be great for exploring visualization and teaching students
 
 Or maybe I just imagined it?!
 
