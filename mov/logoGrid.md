@@ -134,11 +134,9 @@ Lines of different orientation have nice interaction effects.
     Your browser does not support the video tag.
   </video>
 
-Triangles - regular, in line with City branding ... 
+Triangles - regular, in line with City branding ... or random to undermine it ...
 
 <img src="./img/diverseCDT.logo.TRIANGLE.1.png" width="300"/>
-
-or random to undermine it ...
 
 <img src="./img/diverseCDT.logo.TRIANGLE.2.png" width="300"/>
 
@@ -206,7 +204,7 @@ And we can go crazy with busy shape interactions if we don't like sleep ...
 
 #### Square
 
-Here's how it looks as a square with equal spacing top and bottom and with a bigger gap at the bottom to include the strapline.
+Here's how it looks as a square, firstly with equal spacing top and bottom and then and with a bigger gap at the bottom to include the strapline.
 
 <img src="./img/diverseCDT.logo.SQUARE1000.png" width="300"/>
 <img src="./img/diverseCDT.logo.SQUARESTRAP.png" width="300"/>
