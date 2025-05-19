@@ -200,6 +200,11 @@ And we can go crazy with busy shape interactions if we don't like sleep ...
 <img src="./img/diverseCDT.logo.BUSY.8.png" width="300"/>
 <img src="./img/diverseCDT.logo.BUSY.9.png" width="300"/>
 <img src="./img/diverseCDT.logo.BUSY.10.png" width="300"/>
+<img src="./img/diverseCDT.logo.RED.png" width="300"/>
+<img src="./img/diverseCDT.logo.REDIV.png" width="300"/>
+<img src="./img/diverseCDT.logo.REDLOWER.png" width="300"/>
+
+---
 
 ### The Idea
 
