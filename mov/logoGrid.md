@@ -189,6 +189,7 @@ And of course we can combine variations randomly or in light of data.
 
 And we can go crazy with busy shape interactions if we don't like sleep ...
 
+<img src="./img/diverseCDT.logo.BUSY.0.png" width="300"/>
 <img src="./img/diverseCDT.logo.BUSY.1.png" width="300"/>
 <img src="./img/diverseCDT.logo.BUSY.2.png" width="300"/>
 <img src="./img/diverseCDT.logo.BUSY.3.png" width="300"/>
