@@ -181,11 +181,13 @@ We could decide how many rules to apply, but could get _Creative Triangle_ to ex
 We might for example go with ...
 
  1. a 10x8 grid
- 2. DIVERSECDT in rows 5 and 6 of 8
+ 2. DIVERSECDT in rows 5 and 6 of 8 with one letter in each column
  3. a specified tall font
- 4. specified font colouring 
+ 4. specified letter colouring (perhaps with options) 
 
- With _Creative Triangle_ to advise on 3 and 4 and come up with some cool examples that use these rules.
+ With _Creative Triangle_ to advise on 3 and 4 and come up with some cool examples that use and stretch and take advantage of these rules while giving us cool visual identities that reflect our values.
+
+ Thoughts?
 
 ---
 
