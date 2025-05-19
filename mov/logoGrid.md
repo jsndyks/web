@@ -196,7 +196,7 @@ We might for example go with ...
  3. a specified tall font
  4. specified letter colouring (perhaps with options) 
 
- With _Creative Triangle_ to advise on 3 and 4 and come up with some cool examples that use and stretch and take advantage of these rules while giving us cool visual identities that reflect our values.
+ With _Creative Triangle_ to advise on 3 and 4 and come up with some cool examples that use and stretch and take advantage of these rules while giving us expressive and innovative visual identities that reflect our values.
 
  Thoughts?
 
