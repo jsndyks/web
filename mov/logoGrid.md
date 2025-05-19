@@ -216,7 +216,7 @@ I am sure we won't be allowed to do this, but I wish we could - add official log
 <img src="./img/diverseCDT.logo.UNIW.png" width="300"/>
 <img src="./img/diverseCDT.logo.UNIC.png" width="300"/>
 
-
+Actually, have decided that's pretty ugly and need to work on letter spacing there. Delete. Some experiments fail.
 
 ### The Idea
 
