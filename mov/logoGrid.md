@@ -211,7 +211,7 @@ Here's how it looks as a square, firstly with equal spacing top and bottom and t
 
 #### Institution
 
-I am sure we won't be allowed to do this, but I wish we could - add official logos bottom right!
+I am sure we won't be allowed to do this, but I wish we could - add official logos in the 3x2 at the bottom right!
 
 <img src="./img/diverseCDT.logo.UNIW.png" width="300"/>
 <img src="./img/diverseCDT.logo.UNIC.png" width="300"/>
