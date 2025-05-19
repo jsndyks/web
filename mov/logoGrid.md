@@ -226,6 +226,10 @@ I'd want to play with text size and fonts a bit - legibility, white space, balan
 <img src="./img/diverseCDT.logo.TEXT120.png" width="300"/>
 <img src="./img/diverseCDT.logo.TEXT100.png" width="300"/>
 <img src="./img/diverseCDT.logo.TEXT100CRAZY.png" width="300"/>
+<img src="./img/diverseCDT.logo.TEXT100.GRADIENT.png" width="300"/>
+<img src="./img/diverseCDT.logo.TEXT100.SKIN.png" width="300"/>
+<img src="./img/diverseCDT.logo.TEXT100.CHESS.png" width="300"/>
+<img src="./img/diverseCDT.logo.TEXT120.CHESS.png" width="300"/>
 
 Need to check it at different sizes of reproduction.
 
