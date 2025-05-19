@@ -35,7 +35,9 @@ Two rows and 10 columns are taken up with our 10 letters, each letter is thus 2 
 
  - [M PLUS 1 Code](https://fonts.google.com/specimen/M+PLUS+1+Code) seems to work pretty well, [other fonts are available](https://fonts.google.com/)
 
-Here we see it with a circle and a square showing the (60) positions onto which we can plot data.
+Here we see it with a cross showing the (60) positions onto which we can plot data, and circle and square shapes showing the fillable spaces that each position represents.
+
+<img src="./img/diverseCDT.logo.CROSS.png" width="300"/>
 
 <img src="./img/diverseCDT.logo.BASIC.png" width="300"/>
 
