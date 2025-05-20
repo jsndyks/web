@@ -35,7 +35,7 @@ Two rows and 10 columns are taken up with our 10 letters, each letter is thus 2 
 
  - [M PLUS 1 Code](https://fonts.google.com/specimen/M+PLUS+1+Code) seems to work pretty well, [other fonts are available](https://fonts.google.com/)
 
-Here we see it with a cross showing the (60) positions onto which we can plot data, and circle and square shapes showing the fillable spaces that each position represents.
+Here we see it with a cross showing the (60 - which is a nice number as we have one square per student) positions onto which we can plot data, and circle and square shapes showing the fillable spaces that each position represents.
 
 <img src="./img/diverseCDT.logo.CROSS.png" width="300"/>
 
@@ -206,8 +206,10 @@ And we can go crazy with busy shape interactions if we don't like sleep ...
 
 Here's how it looks as a square, firstly with equal spacing top and bottom and then and with a bigger gap at the bottom to include the strapline.
 
-<img src="./img/diverseCDT.logo.SQUARE1000.png" width="300"/>
-<img src="./img/diverseCDT.logo.SQUARESTRAP.png" width="300"/>
+<img src="./img/diverseCDT.logo.SQUARE.1000.png" width="300"/>
+<img src="./img/diverseCDT.logo.SQUARE.PHD.png" width="300"/>
+<img src="./img/diverseCDT.logo.SQUARE.UNI.png" width="300"/>
+<img src="./img/diverseCDT.logo.SQUARE.STRAP.png" width="300"/>
 
 #### Institution
 
@@ -230,6 +232,8 @@ I'd want to play with text size and fonts a bit - legibility, white space, balan
 <img src="./img/diverseCDT.logo.TEXT100.SKIN.png" width="300"/>
 <img src="./img/diverseCDT.logo.TEXT100.CHESS.png" width="300"/>
 <img src="./img/diverseCDT.logo.TEXT120.CHESS.png" width="300"/>
+<img src="./img/diverseCDT.logo.CURVY.V1.png" width="300"/>
+<img src="./img/diverseCDT.logo.CURVY.V2.png" width="300"/>
 
 Need to check it at different sizes of reproduction.
 
