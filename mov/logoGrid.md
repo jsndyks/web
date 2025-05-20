@@ -238,7 +238,7 @@ I'd want to play with text size and fonts a bit - legibility, white space, balan
 <img src="./img/diverseCDT.logo.CURVY.V1.png" width="300"/>
 <img src="./img/diverseCDT.logo.CURVY.V2.png" width="300"/>
 <img src="./img/diverseCDT.logo.DIST.TEXT120.V1.png" width="300"/>
-<img src="./img/diverseCDT.logo.DIST.TEXT120.v2.png" width="300"/>
+<img src="./img/diverseCDT.logo.DIST.TEXT120.V2.png" width="300"/>
 
 Need to check it at different sizes of reproduction.
 
