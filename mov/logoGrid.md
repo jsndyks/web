@@ -117,9 +117,9 @@ Of course that's true of the examples above too ... gently, blatantly, reassurin
 
 Shapes that interact to make composite shapes are interesting.
 
- #### LENGTH
+#### LENGTH
 
- We can make bars of different length if we want to - through data driven presence or absence of a symbol in each cell.
+We can make bars of different length if we want to - through data driven presence or absence of a symbol in each cell.
 
 <img src="./img/diverseCDT.logo.BARS.png" width="300"/>
 
@@ -190,7 +190,7 @@ And of course we can combine variations randomly or in light of data.
 
 #### BUSY, CRAZY INTERACTIONS
 
-And we can go crazy with busy shape interactions if we don't like sleep ...
+And we can go crazy with busy shape interactions if we don't like sleep, many of these are inspired and informed by, if not directly lifted from, by Jo's _tiles_ examples from the City UG BootCamp ...
 
 <img src="./img/diverseCDT.logo.BUSY.0.png" width="300"/>
 <img src="./img/diverseCDT.logo.BUSY.1.png" width="300"/>
