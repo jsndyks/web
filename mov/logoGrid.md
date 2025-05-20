@@ -220,6 +220,9 @@ I am sure we won't be allowed to do this, but I wish we could - add official log
 
 Actually, have decided that's pretty ugly and need to work on letter spacing there. Delete. Some experiments fail.
 
+**UPDATE**: I broke the rules with the two above (by mistake) as the circles go into the blank rows for text - hence ugly!
+
+
 #### Text Size
 
 I'd want to play with text size and fonts a bit - legibility, white space, balance.
@@ -234,6 +237,8 @@ I'd want to play with text size and fonts a bit - legibility, white space, balan
 <img src="./img/diverseCDT.logo.TEXT120.CHESS.png" width="300"/>
 <img src="./img/diverseCDT.logo.CURVY.V1.png" width="300"/>
 <img src="./img/diverseCDT.logo.CURVY.V2.png" width="300"/>
+<img src="./img/diverseCDT.logo.DIST.TEXT120.V1.png" width="300"/>
+<img src="./img/diverseCDT.logo.DIST.TEXT120.V2.png" width="300"/>
 
 Need to check it at different sizes of reproduction.
 
