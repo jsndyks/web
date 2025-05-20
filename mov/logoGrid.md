@@ -73,6 +73,11 @@ We can vary and encode with size, shape, colour, etc.
 
 <img src="./img/diverseCDT.logo.DIST.2.png" width="300"/>
 
+Ooops - those last two broke the rules, with circles overlapping the text rows. Looks too cluttered - fixed below, cleaner.
+
+<img src="./img/diverseCDT.logo.DIST.3.png" width="300"/>
+<img src="./img/diverseCDT.logo.DIST.4.png" width="300"/>
+
 #### ORIENTATION
 
 And we can vary and encode with orientation.
