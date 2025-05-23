@@ -249,6 +249,36 @@ Need to check it at different sizes of reproduction.
 
 A job for the designers maybe!
 
+#### Long and Thin for Headers
+
+Some quick experiments here on how we might use the same font with a different layout for a long / thin aspect ratio.
+
+Using a 1:10 grid with half of the space (1:5) reserved for 10x 2:1 letters and half the space for 'data hooks' seems to work pretty well.
+
+Here I put the letters 20% of the way along (cols 5-24 of 40).
+
+The hooks are closer together here and so the tiles are half the size.
+I think this probably looks OK?
+
+<img src="./img/header/diverseCDT.logo.HOOKS.png" width="600"/><BR/>
+<img src="./img/header/diverseCDT.logo.COLOUR.png" width="600"/><BR/>
+<img src="./img/header/diverseCDT.logo.CURVES.png" width="600"/><BR/>
+<img src="./img/header/diverseCDT.logo.CIRCLES.1.png" width="600"/><BR/>
+<img src="./img/header/diverseCDT.logo.CIRCLES.2.png" width="600"/><BR/>
+<img src="./img/header/diverseCDT.logo.BARS.1.png" width="600"/><BR/>
+<img src="./img/header/diverseCDT.logo.BARS.2.png" width="600"/><BR/>
+<img src="./img/header/diverseCDT.logo.BARS.3.png" width="600"/>
+
+Also note that I got things wrong above - I missed a column of hooks!
+This is rectified below, but the font looked a bit squeezed so I reduced the size a little. Then it needs lowering! This emphasizes the need for a clear, bold, stylish 1:2 font IMHO.
+
+<img src="./img/header/diverseCDT.logo.HOOKS.40.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.BARS.3.40.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.CIRCLES.40.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.COLOUR.40.png" width="600"/><br/>
+
+
+
 ### The Idea
 
 OK - so _The Idea_ is that we have a space or canvas that we can fill in many ways to overcome the identity / expressiveness / ownership  / flexibility conundrum.
@@ -285,3 +315,4 @@ If we add the hyphen of my dreams we lose it but we end up with 11 columns and l
 **Jason**.
 <br/>_19/05/2025_
 <br/>_20/05/2025_
+<br/>_23/05/2025_
