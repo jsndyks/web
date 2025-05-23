@@ -287,6 +287,9 @@ Including one that uses [PEmbroider](https://github.com/CreativeInquiry/PEmbroid
 <img src="./img/header/diverseCDT.logo.EMBROIDED.png" width="600"/><br/>
 (Needs some work on the font).
 
+Which _Margaret Low_ at Warwick just stitched for me!
+<img src="./img/header/diverseCDT.logo.EMBROIDED.PHYS.png" width="600"/><br/>
+
 ### The Idea
 
 OK - so _The Idea_ is that we have a space or canvas that we can fill in many ways to overcome the identity / expressiveness / ownership  / flexibility conundrum.
