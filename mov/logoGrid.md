@@ -272,7 +272,7 @@ I think this probably looks OK?
 Also note that I got things wrong above - I missed a column of hooks!
 This is rectified below, but the font looked a bit squeezed so I reduced the size a little too. Then it needs lowering! This emphasizes the need for a clear, bold, stylish 1:2 font IMHO.
 
-Rectified examples follow ...
+Rectified examples follow, this time with **60 hooks** ...
 
 <img src="./img/header/diverseCDT.logo.HOOKS.40.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.BARS.3.40.png" width="600"/><br/>
