@@ -270,11 +270,14 @@ I think this probably looks OK?
 <img src="./img/header/diverseCDT.logo.BARS.3.png" width="600"/>
 
 Also note that I got things wrong above - I missed a column of hooks!
-This is rectified below, but the font looked a bit squeezed so I reduced the size a little. Then it needs lowering! This emphasizes the need for a clear, bold, stylish 1:2 font IMHO.
+This is rectified below, but the font looked a bit squeezed so I reduced the size a little too. Then it needs lowering! This emphasizes the need for a clear, bold, stylish 1:2 font IMHO.
+
+Rectified examples follow ...
 
 <img src="./img/header/diverseCDT.logo.HOOKS.40.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.BARS.3.40.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.CIRCLES.40.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.INVDISTANCE.40.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.COLOUR.40.png" width="600"/><br/>
 
 
