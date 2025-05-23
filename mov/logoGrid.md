@@ -287,7 +287,7 @@ Including one that uses [PEmbroider](https://github.com/CreativeInquiry/PEmbroid
 <img src="./img/header/diverseCDT.logo.EMBROIDED.png" width="600"/><br/>
 (Needs some work on the font).
 
-Which _Margaret Low_ at Warwick just stitched for me!
+Which _Margaret Low_ at Warwick [just stitched](https://photos.google.com/share/AF1QipPT_KhNCOJx32hjTwNqpf0cA5QA3tGc0TJGqSKrcGpQYESfEUsy7uSJFMniDhqvXQ/photo/AF1QipM5y2FJ2VlS4reN8_bXwBBycI6mGBwTluw-g7tF?key=bTF6bkRkby0wVUdaZFdLcEYwcl9Va3pUWV9hVnNn) for me!
 <img src="./img/header/diverseCDT.logo.EMBROIDED.PHYS.png" width="600"/><br/>
 
 ### The Idea
