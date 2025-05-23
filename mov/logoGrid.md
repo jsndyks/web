@@ -279,6 +279,8 @@ Rectified examples follow, this time with **60 hooks** ...
 <img src="./img/header/diverseCDT.logo.CIRCLES.40.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.INVDISTANCE.40.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.COLOUR.40.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.CURVY.1.40.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.CURVY.2.40.png" width="600"/><br/>
 
 
 
