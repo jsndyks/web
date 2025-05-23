@@ -282,7 +282,10 @@ Rectified examples follow, this time with **60 hooks** ...
 <img src="./img/header/diverseCDT.logo.CURVY.1.40.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.CURVY.2.40.png" width="600"/><br/>
 
+Including one that uses [PEmbroider](https://github.com/CreativeInquiry/PEmbroider/blob/master/README.md) to create a DST file for a programmable sewing machine, in line with the Warwick-based [Stitch in Time](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/turtlestitch/stitchintime/) outreach work.
 
+<img src="./img/header/diverseCDT.logo.EMBROIDED.png" width="600"/><br/>
+(Needs some work on the font).
 
 ### The Idea
 
