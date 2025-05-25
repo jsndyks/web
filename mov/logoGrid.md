@@ -289,6 +289,7 @@ Including one that shows that I have been watching too much of the _[Giro d'Ital
 
 <img src="./img/header/diverseCDT.logo.PULSE.1.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.PULSE.2.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.PULSE.3.png" width="600"/><br/>
 
 And one that uses [PEmbroider](https://github.com/CreativeInquiry/PEmbroider/blob/master/README.md) to create a DST file for a programmable sewing machine, in line with the Warwick-based [Stitch in Time](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/turtlestitch/stitchintime/) outreach work.
 
