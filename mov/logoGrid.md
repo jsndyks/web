@@ -281,6 +281,11 @@ Rectified examples follow, this time with **60 hooks** ...
 <img src="./img/header/diverseCDT.logo.COLOUR.40.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.CURVY.1.40.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.CURVY.2.40.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.TEXT.UNI.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.TEXT.STRAP.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.TEXT.CDT.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.PULSE.1.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.PULSE.2.png" width="600"/><br/>
 
 Including one that uses [PEmbroider](https://github.com/CreativeInquiry/PEmbroider/blob/master/README.md) to create a DST file for a programmable sewing machine, in line with the Warwick-based [Stitch in Time](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/turtlestitch/stitchintime/) outreach work.
 
@@ -327,3 +332,4 @@ If we add the hyphen of my dreams we lose it but we end up with 11 columns and l
 <br/>_19/05/2025_
 <br/>_20/05/2025_
 <br/>_23/05/2025_
+<br/>_25/05/2025_
