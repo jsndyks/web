@@ -285,6 +285,9 @@ Rectified examples follow, this time with **60 hooks** ...
 <img src="./img/header/diverseCDT.logo.TEXT.STRAP.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.TEXT.CDT.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.TEXT.ROTATE.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.FLOWER.1.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.FLOWER.2.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.FLOWER.3.png" width="600"/><br/>
 
 Including one that shows that I have been watching too much of the _[Giro d'Italia](https://www.cyclingnews.com/races/giro-d-italia-2025/stage-14/results/)_ ... 
 
