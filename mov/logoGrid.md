@@ -203,6 +203,10 @@ And we can go crazy with busy shape interactions if we don't like sleep, many of
 <img src="./img/diverseCDT.logo.BUSY.8.png" width="300"/>
 <img src="./img/diverseCDT.logo.BUSY.9.png" width="300"/>
 <img src="./img/diverseCDT.logo.BUSY.10.png" width="300"/>
+<img src="./img/diverseCDT.logo.TRUCHET.4.png" width="300"/>
+<img src="./img/diverseCDT.logo.TRUCHET.5.png" width="300"/>
+<img src="./img/diverseCDT.logo.TRUCHET.6.png" width="300"/>
+<img src="./img/diverseCDT.logo.TRUCHET.7.png" width="300"/>
 <img src="./img/diverseCDT.logo.RED.png" width="300"/>
 <img src="./img/diverseCDT.logo.REDIV.png" width="300"/>
 <img src="./img/diverseCDT.logo.REDLOWER.png" width="300"/>
@@ -291,6 +295,7 @@ Rectified examples follow, this time with **60 hooks** ...
 <img src="./img/header/diverseCDT.logo.PIE.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.TRUCHET.1.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.TRUCHET.2.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.TRUCHET.3.png" width="600"/><br/>
 
 Including one that shows that I have been watching too much of the _[Giro d'Italia](https://www.cyclingnews.com/races/giro-d-italia-2025/stage-14/results/)_ ... 
 
