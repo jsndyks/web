@@ -288,6 +288,9 @@ Rectified examples follow, this time with **60 hooks** ...
 <img src="./img/header/diverseCDT.logo.FLOWER.1.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.FLOWER.2.png" width="600"/><br/>
 <img src="./img/header/diverseCDT.logo.FLOWER.3.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.PIE.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.TRUCHET.1.png" width="600"/><br/>
+<img src="./img/header/diverseCDT.logo.TRUCHET.2.png" width="600"/><br/>
 
 Including one that shows that I have been watching too much of the _[Giro d'Italia](https://www.cyclingnews.com/races/giro-d-italia-2025/stage-14/results/)_ ... 
 
@@ -344,3 +347,4 @@ If we add the hyphen of my dreams we lose it but we end up with 11 columns and l
 <br/>_20/05/2025_
 <br/>_23/05/2025_
 <br/>_25/05/2025_
+<br/>_28/05/2025_
