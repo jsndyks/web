@@ -12,7 +12,7 @@
     body{font-size:85%}
 </style>
 
-_Ride from Thornbury includes a couple of my favourite climbs, a couple of my favourite cafés and a couple of my favourite deceased relatives ..._ 
+_Ride from Thornbury into and out of the Wye Valley (perhaps twice) includes a couple of my favourite climbs, a couple of my favourite cafés and a couple of my favourite deceased relatives ..._ 
 
  * https://www.strava.com/routes/3364650371818513954
 
@@ -62,7 +62,7 @@ My favorite café. They really understand coffee here so make sure your order is
 Love it up here … from the drain by the roadside, past the ponds, through the streams and meadows, with wood anemones and garlic in the hedgerows in the springtime, around the virages and the beech woods, up to _Devauden_. The main road can be busy and the final 400m is steep, but it’s a great run!
 
 ##### 69km Devauden
-My Great uncle lived here when I was a kid, we used to cycle over. He had a house in the village when he was older, but originally lived in a white farmhouse, which is just out of the village on the right on the north on the way to Trellech. I won't make you pedal along there, but I usually do just for all-time sakes. Eat that flapjack. 
+My Great uncle lived here when I was a kid, we used to cycle over. He had a house in the village when he was older, but originally lived in a white farmhouse, which is just out of the village on the right on the north on the way to _Trellech_. I won't make you pedal along there, but I usually do just for all-time sakes. Eat that flapjack. 
 
 ##### 69.5km Descent
 Good views of the _Black Mountains_ as you look right.
