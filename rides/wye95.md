@@ -36,8 +36,14 @@ Very good coffee, excellent bruschetta, opens at 11 AM.
 You guys go out early, but I usually time my ride so that I get here for opening time. It's an hour from _Thornbury_.
 You can sit by the street with the bikes, or head into to the café and sit out the back by the river. Both are excellent. You are right by the river here so it's important to get some caffeine in you before the long climb ahead!
 
+#### 21.2km Wye Bridge
+Love the bridge into _England_. Remember to look back left over your shoulder at the castle as you head over, while concurrently watching out for oncoming traffic!
+The climb to _Tutshill_ is sharp and I used to do this on a [Raleigh Europa](https://road.cc/content/blog/tales-10-speed-racer-279649) in jeans as a kid!
+But the climb from [Wye to Tidenham](https://www.strava.com/segments/39314918) is a glorious 200m ascent over 6.25km (if you can avoid the traffic!)
+
 #### 23.75km Wintour’s Leap
 You are on a cliff edge here. Stop at the side of the road in one of the little alcoves to see the _Wye_ and how high you have climbed.
+Remember to look right to see _The River_ and _Thornbury_ as you climb.
 
 #### 26.75 Tidenham Chase
 You are nearly at the top of the climb now, and it's worth just going a few hundred yards down any of the lanes into the Woodland to enjoy the foliage and hear the bird song.
