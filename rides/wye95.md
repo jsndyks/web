@@ -26,7 +26,7 @@ _Ride from Thornbury into and out of the Wye Valley (perhaps twice) includes a c
 As a kid I always felt this left up _Stock Hill_ was my escape from _Thornbury_. The World opens up at the top - enjoy the view!
 
 #### 6km Levee
-It's always worth a trip to the river at _Littleton_, just head up onto the levee to look at the bridge and see where you're heading
+It's always worth a trip to the river at _Littleton_, just go through / over the gate up onto the levee at _Whale Wharf_ to look at the bridge and see where you're heading
 
 #### 13.5km Toll Booth
 I always ride across the foot-bridge over the motorway here, nice view of the big bridge, sun behind you so shadows often and fall on the road. A good place for a quick drink (bring your own).
