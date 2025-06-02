@@ -16,6 +16,12 @@ _Ride from Thornbury into and out of the Wye Valley (perhaps twice) includes a c
 
  * [https://www.strava.com/routes/3364650371818513954](https://www.strava.com/routes/3364650371818513954)
 
+<img src="img/jayWye95km.strava.250602.png" width="80%" style="margin-left:10%;margin-right:10%"/>
+
+---
+
+### Instructions and Points of Interest
+
 #### 6km Levee
 It's always worth a trip to the river at _Littleton_, just head up onto the levee to look at the bridge and see where you're heading
 
