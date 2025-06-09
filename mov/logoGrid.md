@@ -217,9 +217,45 @@ And we can go crazy with busy shape interactions if we don't like sleep, many of
 <img src="./img/diverseCDT.logo.TRUCHET.12.png" width="300"/>
 <img src="./img/diverseCDT.logo.TRUCHET.13.png" width="300"/>
 
+#### Colour - Camo / Sunset
+
+Some colour schemes that are in line with the jungly room decor.
+
+_Note that these use an updated 10x10 grid with 2 rows for text and two rows of spacing as suggested by **Creative Triangle**._
+
+<img src="./img/diverseCDT.logo.CAMO.01.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.02.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.03.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.04.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.05.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.06.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.07.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.08.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.09.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.10.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.11.png" width="300"/>
+<img src="./img/diverseCDT.logo.CAMO.12.png" width="300"/>
+
+Some are not.
+
+<img src="./img/diverseCDT.logo.SUNSET.01.png" width="300"/>
+<img src="./img/diverseCDT.logo.SUNSET.02.png" width="300"/>
+<img src="./img/diverseCDT.logo.SUNSET.03.png" width="300"/>
+
+
+#### Greg!
+
+I tried to add in some of Greg's ideas here ...
+
+<img src="./img/diverseCDT.logo.GM.CONCEPT5.png" width="300"/>
+<img src="./img/diverseCDT.logo.GM.ATYPE.png" width="300"/>
+<img src="./img/diverseCDT.logo.GM.PUCE3D.png" width="300"/>
+
 #### Square
 
 Here's how it looks as a square, firstly with equal spacing top and bottom and then and with a bigger gap at the bottom to include the strapline.
+
+_Note that these designs precede the **Creative Traingle** 10x10._
 
 <img src="./img/diverseCDT.logo.SQUARE.1000.png" width="300"/>
 <img src="./img/diverseCDT.logo.SQUARE.PHD.png" width="300"/>
@@ -359,3 +395,4 @@ If we add the hyphen of my dreams we lose it but we end up with 11 columns and l
 <br/>_23/05/2025_
 <br/>_25/05/2025_
 <br/>_28/05/2025_
+<br/>_09/06/2025_
