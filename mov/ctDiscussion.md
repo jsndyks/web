@@ -52,6 +52,7 @@ Maybe we could use / re-hash some of the other styles that received positive fee
 
   - between 1 and 3 cells high
   - centre aligned vertically and horizontally
+  - or something
 
 Like this one that I scrawled in a _Creative Triangle_ notebook with a triangular _Creative Triangle_ pencil.
 
@@ -105,6 +106,8 @@ I'd quite like to see **weight variations** using the selected typeface, e.g.:
  <img src="./img/text/diverseCDT.weight.png" width="300"/>
 
  These examples are not monospaced but if they were, the spaced D&nbsp;I&nbsp;V&nbsp;E&nbsp;R&nbsp;S&nbsp;E&nbsp; could look pretty cool!
+
+ These seem more hopeful to me.
 
 #### OUR VALUES
 
