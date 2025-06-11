@@ -129,6 +129,7 @@ And in light of the discussion, and the spirit of experimentation, these are for
  <img src="./img/diverseCDT.logo.THEMOON.04.png" width="300"/>
  <img src="./img/diverseCDT.logo.THEMOON.05.png" width="300"/>
  <img src="./img/diverseCDT.logo.THEMOON.06.png" width="300"/>
+ <img src="./img/diverseCDT.logo.THEMOON.07.png" width="300"/>
 
 ---
 
