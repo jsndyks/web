@@ -14,7 +14,11 @@
 
 Nice discussion today, very useful to hear Ben's perspective and advice.
 
-Some thoughts ...
+Thanks for finding time.
+
+Some thoughts, on **TEXT**, **WEIGHT**, **JOKES**, **OUR VALUES** and **THE MOON** ...
+
+Please could you share these around?
 
 #### TEXT
 
@@ -102,9 +106,18 @@ I'd quite like to see **weight variations** using the selected typeface, e.g.:
 
  These examples are not monospaced but if they were, the spaced D&nbsp;I&nbsp;V&nbsp;E&nbsp;R&nbsp;S&nbsp;E&nbsp; could look pretty cool!
 
+#### OUR VALUES
+
+You asked about our values ... and here is our first draft (developing, bear with us) ...
+
+ <img src="./img/diverseCDT.values.png" width="500"/>
+
+_We experiment_ - right!
+
+
 #### THE MOON
 
-And these are for Ben!
+And in light of the discussion, and the spirit of experimentation, these are for Ben!
 
  <img src="./img/diverseCDT.logo.THEMOON.01.png" width="300"/>
  <img src="./img/diverseCDT.logo.THEMOON.03.png" width="300"/>
