@@ -51,6 +51,7 @@ Maybe we could use / re-hash some of the other styles that received positive fee
  Or maybe we just say '_bring your own I_' and allow anything that is:
 
   - between 1 and 3 cells high
+  - no more than 1 cell wide
   - centre aligned vertically and horizontally
   - or something
 
