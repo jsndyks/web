@@ -114,6 +114,8 @@ You asked about our values ... and here is our first draft (developing, bear wit
 
 _We experiment_ - right!
 
+I guess that the key thing to say is that we are into the language of graphics and depicting data graphically in ways that are dynamic, interactive, meaningful, impactful, beautiful, informative, nuanced and useful. We are creative in doing so, often this creativity is inspired by technical opportunity, often by human need. We study the approaches that work best for particular tasks, people and data sets. We develop the theory, software and graphics that enable this. 
+
 
 #### THE MOON
 
