@@ -24,21 +24,21 @@ Of course, I couldn't help having a couple of ideas both in the meeting and on t
 
 So ... maybe change alignment?
 
- <img src="./img/text/diverseCDT.TEXT.01.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.01.png" width="300"/>
 
- <img src="./img/text/diverseCDT.TEXT.02.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.02.png" width="300"/>
 
  Or size?
 
- <img src="./img/text/diverseCDT.TEXT.03.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.03.png" width="300"/>
 
 Maybe we could use / re-hash some of the other styles that received positive feedback?
 
- <img src="./img/text/diverseCDT.TEXT.07.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.07.png" width="300"/>
 
- <img src="./img/text/diverseCDT.TEXT.06.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.06.png" width="300"/>
 
- <img src="./img/text/diverseCDT.TEXT.08.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.08.png" width="300"/>
 
  Or maybe we just say '_bring your own I_' and allow anything that is:
 
@@ -47,7 +47,7 @@ Maybe we could use / re-hash some of the other styles that received positive fee
 
 Like this one that I scrawled in a _Creative Triangle_ notebook with a triangular _Creative Triangle_ pencil.
 
- <img src="./img/text/diverseCDT.TEXT.09.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.09.png" width="300"/>
 
  That gives us another exciting, expressive design space!
 
@@ -55,17 +55,17 @@ Like this one that I scrawled in a _Creative Triangle_ notebook with a triangula
 
  Or maybe we do something that reflects, points to, emphasizes, _the grid_ (that we anticipate appearing in the square logo design and subsequent design experiments) in some way ...
 
- <img src="./img/text/diverseCDT.TEXT.10.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.10.png" width="300"/>
 
- <img src="./img/text/diverseCDT.TEXT.11.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.11.png" width="300"/>
 
- <img src="./img/text/diverseCDT.TEXT.12.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.12.png" width="300"/>
 
- <img src="./img/text/diverseCDT.TEXT.13.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.13.png" width="300"/>
 
- <img src="./img/text/diverseCDT.TEXT.14.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.14.png" width="300"/>
 
-<img src="./img/text/diverseCDT.TEXT.15.png" width="300"/>
+<img src="./img/text/diverseCDT.text.15.png" width="300"/>
 
 This gets us quite close to _Concept 6_ (the abacus) from _Design 8_, which nobody liked much.<br/>Maybe it was the teal, lower case and bounding box!<br/> Maybe not!
 
@@ -78,11 +78,11 @@ Oh, and finally, **hyphens** were mentioned in light of the visual _joke_ / _ann
 
 I thought we might manage another visual 'joke' with this ...
 
- <img src="./img/text/diverseCDT.TEXT.04.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.04.png" width="300"/>
 
 ... or even this to retain the flow  ...
 
- <img src="./img/text/diverseCDT.TEXT.05.png" width="300"/>
+ <img src="./img/text/diverseCDT.text.05.png" width="300"/>
 
  ... but, I don't think they work particularly well.
 
