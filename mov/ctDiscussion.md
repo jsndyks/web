@@ -14,6 +14,10 @@
 
 Nice discussion today, very useful to hear Ben's perspective and advice.
 
+Some thoughts ...
+
+#### TEXT
+
 It seems pretty clear to me that the text itself is a very important part of the design, and identity, and that this may end up being used without the other graphic elements that we've been talking about.
 
 Given this, it seems to me that this does need to have a distinctive identity and this could be quite subtle. We talked about the challenges with having an I fill a 2x1 space (to sit within the grid). And we have had some positive feedback on some of the examples in which one letter differs or is designed differently. This says 'diversity' but I am not sure it says 'inclusion'.
@@ -73,6 +77,8 @@ This gets us quite close to _Concept 6_ (the abacus) from _Design 8_, which nobo
 
 Anyhow, I hope this inspires some ideas!
 
+#### JOKES
+
 
 Oh, and finally, **hyphens** were mentioned in light of the visual _joke_ / _annoyance_ on the [DIVERSE CDT](https://diverse-cdt.ac.uk/) holding web site, which you might find a useful source of background information actually.
 
@@ -86,6 +92,8 @@ I thought we might manage another visual 'joke' with this ...
 
  ... but, I don't think they work particularly well.
 
+#### WEIGHT
+
 I do however think that all of the above make it clear that we need to not say "**DIVER SECDT**" and I hope that Ben can work to avoid that by visually differentiating the two parts of the 'word'!
 
 I'd quite like to see **weight variations** using the selected typeface, e.g.:
@@ -93,6 +101,13 @@ I'd quite like to see **weight variations** using the selected typeface, e.g.:
  <img src="./img/text/diverseCDT.weight.png" width="300"/>
 
  These examples are not monospaced but if they were, the spaced D&nbsp;I&nbsp;V&nbsp;E&nbsp;R&nbsp;S&nbsp;E&nbsp; could look pretty cool!
+
+#### THE MOON
+
+And these are for Ben!
+
+ <img src="./img/diverseCDT.logo.THEMOON.01.png" width="300"/>
+ <img src="./img/diverseCDT.logo.THEMOON.03.png" width="300"/>
 
 ---
 
