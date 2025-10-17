@@ -20,7 +20,8 @@ This does weird things with face symmetry - _particularly if you have a massive 
 |--|--|--|--|--|--|
 | <a href="./img/IMG_6715.v0.jpeg"><img src="./img/IMG_6715.v0.jpeg" width="150"></a> | <a href="./img/IMG_6715.v1.jpeg"><img src="./img/IMG_6715.v1.jpeg" width="150"></a> | <a href="./img/IMG_6715.v2.jpeg"><img src="./img/IMG_6715.v2.jpeg" width="150"></a> | <a href="./img/IMG_6715.v3.jpeg"><img src="./img/IMG_6715.v3.jpeg" width="150"></a> | <a href="./img/IMG_6715.v4.jpeg"><img src="./img/IMG_6715.v4.jpeg" width="150"></a> | <a href="./img/IMG_6715.v5.jpeg"><img src="./img/IMG_6715.v5.jpeg" width="130"></a> |
 
-The light from the side (left) is shining on the bigger half of my face and makes it look _even more massive_ than normal as the smaller right side of my face cowers away in the darkness (_Fig. 1_). I can live with this, but ...
+The light from the side (left) is shining on the bigger half of my face and makes it look _even more massive_ than normal as the smaller right side of my face cowers away in the darkness (_Fig. 1_).
+I can (and do) live with this, but ...
 
 This is rectified (in the photo at least) with an _Apple Photos_ basic '_auto-enhance_'filter (_Fig. 2_)
 
