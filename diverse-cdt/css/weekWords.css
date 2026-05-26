@@ -1,0 +1,16 @@
+<style>
+  td, th {font-size:120%; padding:0.5rem 0rem 0.5rem 0rem}
+  .wwMain, .wwSub {
+    background-color:#20c08050;
+    background-color:#ffff0050;
+    color:#606060;
+    display:block;
+    margin:0px;
+  }
+  .wwMain {
+    font-size:80%; margin:0px; color:#202020;padding:1.5rem 2.5rem 0.25rem 2.5rem;}
+  .wwSub {
+    font-size:50%;padding:0.25rem 0.5rem 1.5rem 0.5rem;}
+  .wwHead {
+    font-size:67%}
+</style>
