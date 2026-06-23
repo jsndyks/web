@@ -19,10 +19,10 @@
     .city {font-style:italic}
     .country {font-style:italic}
     table tbody tr td, table thead tr th {border:1px #ffffff solid; margin:0px; padding:0.25rem; margin:0px}
+    td, th {border:1px #ffffff solid; margin:0px; padding:0.25rem; margin:0px}
     </style>
 
-Data are © 2026 _Joshua C. Fjelstul, Ph.D._ from [WorldCups.ai](https://www.worldcups.ai/data)
-and acquired and used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Data are © 2026 _Joshua C. Fjelstul, Ph.D._ from [WorldCups.ai](https://www.worldcups.ai/data) and acquired and used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).<br/>
 The table is generated through field concatenation. 
 
 <table style="font-size:80%;">
