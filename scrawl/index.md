@@ -1,5 +1,6 @@
-
+<link rel="stylesheet" type="text/css" href="../css/pages.css"/>
 <link rel="stylesheet" href="../assets/jdscrawl.css">
+
 <style>
 .jdscrawl {font-size: clamp(1.8rem, 4.4vw, 3.5rem); line-height:1.5; margin:.5rem 0;}
   .light {font-weight:300;}
@@ -24,3 +25,9 @@ What do you think?
 ## Experiments
 
 ### And More
+
+Jason Dykes
+
+_Jason Dykes_
+
+**Jason Dykes**
