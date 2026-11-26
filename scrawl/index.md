@@ -12,9 +12,9 @@
     h1, h2, h3 {
         font-family: "jdScrawl", cursive;
     }
-    h1 { font-weight: 900; font-size:140%} /* Black */
-    h2 { font-weight: 700; font-size:120%} /* Bold */
-    h3 { font-weight: 600; font-size:110%} /* SemiBold */
+    h1 { font-weight: 900; font-size:250%} /* Black */
+    h2 { font-weight: 700; font-size:200%} /* Bold */
+    h3 { font-weight: 600; font-size:180%} /* SemiBold */
 
     body  p {font-family: "jdScrawl", cursive; font-weight:400; font-size:150%}
     b strong {font-weight:600;}
