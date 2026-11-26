@@ -17,6 +17,10 @@
 
 # JD Scrawl Font
 
+Testing whether nor not this font really looks like my actual handwriting.
+
+What do you think?
+
 ## Experiments
 
 ### And More
