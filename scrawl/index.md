@@ -14,6 +14,9 @@
     h1 { font-weight: 900; } /* Black */
     h2 { font-weight: 700; } /* Bold */
     h3 { font-weight: 600; } /* SemiBold */
+
+    body {font-weight:400;}
+    b {font-weight:300;}
 </style>
 
 # JD Scrawl Font
