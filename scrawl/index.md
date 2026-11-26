@@ -16,7 +16,7 @@
     h2 { font-weight: 700; font-size:120%} /* Bold */
     h3 { font-weight: 600; font-size:110%} /* SemiBold */
 
-    body  p {font-family: "jdScrawl", cursive; font-weight:400;}
+    body  p {font-family: "jdScrawl", cursive; font-weight:400; font-size:150%}
     b strong {font-weight:600;}
 </style>
 
