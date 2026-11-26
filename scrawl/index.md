@@ -7,7 +7,7 @@
   .regular {font-weight:400;}
   .semi {font-weight:600;}
   .bold {font-weight:700;}
-  .black {font-weight:900;}
+  .black {font-weight:900; font-size:120%}
     h1, h2, h3 {
     font-family: "jdScrawl", cursive;
     }
