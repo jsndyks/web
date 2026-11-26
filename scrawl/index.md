@@ -22,18 +22,19 @@
 
 # JD Scrawl Font
 
-Testing whether nor not this font really looks like my actual handwriting.
-
-What do you think?
-
-## Experiments
-
 I gave ChatGPT some examples of my handwriting and then after a brief conversation about the style and its specifics, it came up with a font that I can use to replicate handwriting in office documents, webpages and the apps that I write.
 
 
-### And More
+## Experiments
+
+Testing whether nor not this font really looks like my actual handwriting.
 
 I reckon it looks okay, what do you think?
+
+It's not that readable ... but it's pretty authentic!
+
+### And More
+
 
 Jason Dykes
 
