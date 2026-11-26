@@ -28,7 +28,8 @@ What do you think?
 
 ## Experiments
 
-I gave ChatGPT some examples of my handwriting and then after a brief conversation about the style and it specifics, it came up with a font that I can use to replicate handwriting in office documents, webpages and the apps that I write.
+I gave ChatGPT some examples of my handwriting and then after a brief conversation about the style and its specifics, it came up with a font that I can use to replicate handwriting in office documents, webpages and the apps that I write.
+
 
 ### And More
 
