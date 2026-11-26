@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>jdScrawl — Webfont Test</title>
+<link rel="stylesheet" href="jdscrawl.css">
+<style>
+  body {max-width: 1150px; margin: 3rem auto; padding: 0 1.5rem; color: #202020;
+    background: #fff; font: 1rem/1.5 system-ui, sans-serif;}
+  h1 {font-size: clamp(2.6rem, 7vw, 5.5rem); font-weight: 900; line-height: 1.2; margin: 0.4em 0;}
+  .eyebrow {color:#555; font-weight: 600; letter-spacing: .09em; font-size:.84rem; }
+  section {border-top: 1px solid #ddd; padding: 1rem 0; }
+  label {display: block; font-weight: 600; color: #555;}
+  p.jdscrawl {font-size: clamp(1.8rem, 4.4vw, 3.5rem); line-height:1.5; margin:.5rem 0;}
+  .light {font-weight:300;} .regular {font-weight:400;} .semi {font-weight:600;}
+  .bold {font-weight:700;} .black {font-weight:900;}
+  .note {font-size:.9rem; color:#555;}
+</style>
+</head>
+<body>
+<p class="eyebrow">jdScrawl / v0.14</p>
+<h1 class="jdscrawl">design decisions!</h1>
+<p class="note">All samples use local WOFF2 fonts. The two inputs differ in case, so contextual alternates select different forms. The glyphs are all visually capitals.</p>
+<section><label>Light · 300</label><p class="jdscrawl light">the quick brown fox jumps over the lazy dog</p><p class="jdscrawl light">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG</p></section>
+<section><label>Regular · 400</label><p class="jdscrawl regular">the quick brown fox jumps over the lazy dog</p><p class="jdscrawl regular">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG</p></section>
+<section><label>SemiBold · 600</label><p class="jdscrawl semi">the quick brown fox jumps over the lazy dog</p><p class="jdscrawl semi">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG</p></section>
+<section><label>Bold · 700</label><p class="jdscrawl bold">the quick brown fox jumps over the lazy dog</p><p class="jdscrawl bold">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG</p></section>
+<section><label>Black · 900 (120% glyph scale)</label><p class="jdscrawl black">the quick brown fox jumps over the lazy dog</p><p class="jdscrawl black">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG</p></section>
+<section><label>Mixed weights</label><p class="jdscrawl regular">Here are some ideas about supervisors and <strong class="bold">CRediT</strong> in <strong class="black">DIVERSE-CDT</strong>!</p></section>
+<section><label>Numerals &amp; punctuation</label><p class="jdscrawl regular">0123456789 2579 2579 &amp; &amp; … ...</p><p class="jdscrawl bold">0123456789 2579 2579 &amp; &amp; … ...</p></section>
+</body>
+</html>

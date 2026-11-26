@@ -1,0 +1,43 @@
+/* jdScrawl — webfont definitions */
+@font-face {
+  font-family: "jdScrawl";
+  src: url("fonts/jdScrawl-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "jdScrawl";
+  src: url("fonts/jdScrawl-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "jdScrawl";
+  src: url("fonts/jdScrawl-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "jdScrawl";
+  src: url("fonts/jdScrawl-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "jdScrawl";
+  src: url("fonts/jdScrawl-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+.jdscrawl {
+  font-family: "jdScrawl", cursive;
+  font-kerning: normal;
+  font-feature-settings: "calt" 1, "kern" 1;
+  font-synthesis: none;
+  text-transform: none;
+}
