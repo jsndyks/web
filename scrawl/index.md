@@ -11,18 +11,17 @@
 
   h1 {font-size: clamp(2.6rem, 7vw, 5.5rem); font-weight: 900; line-height: 1.2; margin: 0.4em 0;}
 
-    body  p {font-family: "jdScrawl", cursive; font-weight:400; font-size:150%}
-    b strong {font-weight:600;}
-</style>
-
-<!--
     h1, h2, h3 {
         font-family: "jdScrawl", cursive;
     }
     h1 { font-weight: 900; font-size:250%} /* Black */
     h2 { font-weight: 700; font-size:200%} /* Bold */
     h3 { font-weight: 600; font-size:180%} /* SemiBold */
--->
+
+    body  p {font-family: "jdScrawl", cursive; font-weight:400; font-size:150%}
+    b strong {font-weight:600;}
+</style>
+
 
 # JD Scrawl Font
 
