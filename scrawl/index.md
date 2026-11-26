@@ -9,6 +9,8 @@
     .bold {font-weight:700;}
     .black {font-weight:900; font-size:120%}
 
+  h1 {font-size: clamp(2.6rem, 7vw, 5.5rem); font-weight: 900; line-height: 1.2; margin: 0.4em 0;}
+
     body  p {font-family: "jdScrawl", cursive; font-weight:400; font-size:150%}
     b strong {font-weight:600;}
 </style>
@@ -24,7 +26,7 @@
 
 # JD Scrawl Font
 
-I gave ChatGPT some examples of my handwriting and then after a brief conversation about the style and its specifics, it came up with a font that I can use to replicate handwriting in office documents, webpages and the apps that I write.
+I gave ChatGPT some examples of my handwriting - a few images tken over the years - and then after a brief conversation about the style and its specifics, it came up with a font that I can use to replicate handwriting in office documents, webpages and the apps that I write.
 
 
 ## Experiments
