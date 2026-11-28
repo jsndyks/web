@@ -17,10 +17,10 @@
     h3 { font-weight: 600; font-size:180%} /* SemiBold */
 
     h1 {
-    font-family: "jdScrawl", cursive;
-    font-size: clamp(2.6rem, 7vw, 5.5rem);
-    font-weight: 900;
+    font-family: "jdScrawl", cursive !important;
+    font-weight: 900 !important;
     font-synthesis: none;
+    font-size: clamp(2.6rem, 7vw, 5.5rem);
     line-height: 1.2;
     margin: 0.4em 0;
     }
