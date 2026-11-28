@@ -21,7 +21,7 @@
     font-weight: 900 !important;
     font-synthesis: none;
     font-size: clamp(2.6rem, 7vw, 5.5rem);
-    line-height: 1.2;
+    line-height: 1.5;
     margin: 0.4em 0;
     }
 
